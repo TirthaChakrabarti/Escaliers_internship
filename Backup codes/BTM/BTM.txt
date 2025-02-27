@@ -1,0 +1,1416 @@
+<!doctype html>
+<html lang="en-US" class="no-js">
+	
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+
+		<meta charset="UTF-8">
+		<title>BTM</title>
+        <meta name="facebook-domain-verification" content="vg3x4n3njxv2ik2l38h3ivrhim2fuu" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="preconnect" href="https://fonts.googleapis.com/">
+        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+        <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> -->
+
+        <meta name="google-site-verification" content="eZhR9rBBCxEDCVSU52qVYynNnqdgepF1-TQuK4xns2U" />
+
+				<style type="text/css">
+					.heateor_sss_button_instagram span.heateor_sss_svg,a.heateor_sss_instagram span.heateor_sss_svg{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}
+											.heateor_sss_horizontal_sharing .heateor_sss_svg,.heateor_sss_standard_follow_icons_container .heateor_sss_svg{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+					.heateor_sss_horizontal_sharing .heateorSssTCBackground{
+				color:#666;
+			}
+					.heateor_sss_horizontal_sharing span.heateor_sss_svg:hover,.heateor_sss_standard_follow_icons_container span.heateor_sss_svg:hover{
+						border-color: transparent;
+		}
+		.heateor_sss_vertical_sharing span.heateor_sss_svg,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+				.heateor_sss_vertical_sharing .heateorSssTCBackground{
+			color:#666;
+		}
+						.heateor_sss_vertical_sharing span.heateor_sss_svg:hover,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg:hover{
+						border-color: transparent;
+		}
+		@media screen and (max-width:783px) {.heateor_sss_vertical_sharing{display:none!important}}div.heateor_sss_mobile_footer{display:none;}@media screen and (max-width:783px){div.heateor_sss_bottom_sharing .heateorSssTCBackground{background-color:white}div.heateor_sss_bottom_sharing{width:100%!important;left:0!important;}div.heateor_sss_bottom_sharing a{width:16.6666666667% !important;}div.heateor_sss_bottom_sharing .heateor_sss_svg{width: 100% !important;}div.heateor_sss_bottom_sharing div.heateorSssTotalShareCount{font-size:1em!important;line-height:28px!important}div.heateor_sss_bottom_sharing div.heateorSssTotalShareText{font-size:.7em!important;line-height:0px!important}div.heateor_sss_mobile_footer{display:block;height:40px;}.heateor_sss_bottom_sharing{padding:0!important;display:block!important;width:auto!important;bottom:-2px!important;top: auto!important;}.heateor_sss_bottom_sharing .heateor_sss_square_count{line-height:inherit;}.heateor_sss_bottom_sharing .heateorSssSharingArrow{display:none;}.heateor_sss_bottom_sharing .heateorSssTCBackground{margin-right:1.1em!important}}div.heateorSssSharingArrow{display:none}		</style>
+		<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v19.0 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Buy up to $50,000 per day
+    With BTM" />
+	<link rel="canonical" href="index.html" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="BTM" />
+	<meta property="og:description" content="Buy up to $50,000 per day
+    With BTM" />
+	<meta property="og:url" content="https://btm.com/" />
+	<meta property="og:site_name" content="BTM" />
+	<meta property="article:modified_time" content="2024-09-11T08:18:54+00:00" />
+	<meta property="og:image" content="https://btm.com/wp-content/uploads/2023/05/BTMs.jpg" />
+	<meta property="og:image:width" content="600" />
+	<meta property="og:image:height" content="774" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://btm.com/#website","url":"https://btm.com/","name":"BTM","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://btm.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://btm.com/#primaryimage","url":"https://btm.com/wp-content/uploads/2023/05/BTMs.jpg","contentUrl":"https://btm.com/wp-content/uploads/2023/05/BTMs.jpg","width":600,"height":774,"caption":"BTM Machines"},{"@type":"WebPage","@id":"https://btm.com/#webpage","url":"https://btm.com/","name":"BTMs","isPartOf":{"@id":"https://btm.com/#website"},"primaryImageOfPage":{"@id":"https://btm.com/#primaryimage"},"datePublished":"2021-07-10T18:28:13+00:00","dateModified":"2024-09-11T08:18:54+00:00","description":"Buy up to $50,000 per day
+        With BTM","breadcrumb":{"@id":"https://btm.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://btm.com/"]}]},{"@type":"BreadcrumbList","@id":"https://btm.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v9.3.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="http://www.googletagmanager.com/gtag/js?id=G-Q1SH8KP5FM"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '9.3.0';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/btm.com\/"};
+				if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
+				} else {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsExcludeQuery : MonsterInsightsDefaultLocations;
+				}
+
+								var disableStrs = [
+										'ga-disable-G-Q1SH8KP5FM',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+					if ( MonsterInsightsLocations.page_location ) {
+						__gtagTracker('set', MonsterInsightsLocations);
+					}
+										__gtagTracker('config', 'G-Q1SH8KP5FM', {"forceSSL":"true","link_attribution":"true"} );
+															window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+									'referrer' : 'page_referrer',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+		<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='normalize-css' href='wp-content/themes/html5barebones/css/styles5152.css?ver=1.0' media='all' />
+<link rel='stylesheet' id='html5blank-css' href='wp-content/themes/html5barebones/style5152.css?ver=1.0' media='all' />
+<link rel='stylesheet' id='home-css' href='wp-content/themes/html5barebones/css/home5152.css?ver=1.0' media='all' />
+<link rel='stylesheet' id='heateor_sss_frontend_css-css' href='wp-content/plugins/sassy-social-share/public/css/sassy-social-share-publica783.css?ver=3.3.42' media='all' />
+<script type="text/javascript" src="wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="wp-content/themes/html5barebones/js/scripts8a54.js?ver=1.0.0" id="html5blankscripts-js"></script>
+<script type="text/javascript" src="wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.mind8f7.js?ver=9.3.0" id="monsterinsights-frontend-script-js" async="async" data-wp-strategy="async"></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/btm.com","hash_tracking":"false","v4_id":"G-Q1SH8KP5FM"};/* ]]> */
+</script>
+<script type="text/javascript" id="my_loadmore-js-extra">
+/* <![CDATA[ */
+var misha_loadmore_params = {"ajaxurl":"https:\/\/btm.com\/wp-admin\/admin-ajax.php","posts":"{\"error\":\"\",\"m\":\"\",\"p\":\"9\",\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"\",\"pagename\":\"\",\"page_id\":\"9\",\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"search_columns\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"update_menu_item_cache\":false,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":21,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}","current_page":"1","max_page":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="wp-content/themes/html5barebones/myloadmore9704.js?ver=6.7.1" id="my_loadmore-js"></script>
+<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" title="JSON" type="application/json" href="wp-json/wp/v2/pages/9.json" /><link rel="icon" href="./images/logo.webp" sizes="32x32" />
+<link rel="icon" href="./images/logo.webp" sizes="192x192" />
+<link rel="apple-touch-icon" href="wp-content/uploads/2021/08/cropped-android-chrome-512x512-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://btm.com/wp-content/uploads/2021/08/cropped-android-chrome-512x512-1-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			section#steps .steps-centered .steps-outer .steps-inner .step-wrap {min-height:270px}
+
+.home footer.footer {
+	margin-top:0!important;
+}
+
+div#gform_confirmation_wrapper_2 {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+@media only screen and (max-width: 860px) {
+	section#steps .steps-centered .steps-outer .steps-inner .step-wrap {
+    /* min-height: 400px; */
+    height: auto;
+    padding: 24px;
+		min-height:unset;
+}
+}		</style>
+		
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-204690332-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-204690332-1');
+		</script>
+		
+		<!-- Facebook Pixel Code -->
+		<script>
+		!function(f,b,e,v,n,t,s)
+		{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+		n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+		if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+		n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];
+		s.parentNode.insertBefore(t,s)}(window, document,'script',
+		'../connect.facebook.net/en_US/fbevents.js');
+		fbq('init', '343005137310405');
+		fbq('track', 'PageView');
+		</script>
+		<noscript><img height="1" width="1" style="display:none"
+		src="https://www.facebook.com/tr?id=343005137310405&amp;ev=PageView&amp;noscript=1"
+		/></noscript>
+		<!-- End Facebook Pixel Code -->
+		
+		<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:2560391,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+        <script type='application/ld+json'>
+            {
+                "@context": "http://www.schema.org",
+                "@type": "Organization",
+                "name": "BTM",
+                "url": "https://btm.com/",
+                "logo": "https://btm.com/wp-content/uploads/2021/09/BTM-Logo.png",
+                "sameAs": [
+                    "https://www.facebook.com/BTM-107172914960909/",
+                    "https://www.instagram.com/btm/"
+                ]
+            }
+        </script>
+        		<!-- Global site tag (gtag.js) - Google Ads: 10775825420 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10775825420"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-10775825420');
+</script>
+<meta name="google-site-verification" content="LIWFXJn2vzWOd88vpol8c0ZY_mL_HmsDmnjHd33raw4" />		
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+<style>
+	.telephone_header {max-width:320px; flex-grow:1;}
+	.telephone_header a:link, .telephone_header a:visited {color:#f10000; text-decoration:none; font-weight:700;}
+	.telephone_header a:hover {text-decoration:none; color:#333;}
+	@media (max-width: 450px) {
+		.nav-wrap .logo-wrap {order:0;}
+		.telephone_header {order:1; width: 100%; padding: 8px 0 8px;}
+		.nav-wrap .ham-wrap {order:0;}
+	}
+</style>
+
+<style>
+    dialog {
+        width: 400px;
+        padding: 20px;
+        border: 3px solid orangered;
+        border-radius: 15px;
+        background-color: #000000;
+        color: white;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        z-index: 100;
+    }
+
+    #myModal::backdrop {
+        background-color: rgba(0, 0, 0, 0.7);
+    }
+
+    #modal-content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    #modal-button {
+        margin-top: 20px;
+        padding: 10px 20px;
+        background-color: orangered;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        z-index: 100;
+    }
+
+    #first-line {
+        font-weight: bold;
+        font-size: 24px;
+        margin-bottom: 10px;
+        color: cyan;
+    }
+
+    #second-line {
+        margin-bottom: 10px;
+        font-size: large;
+        color: cyan;
+    }
+
+    #number {
+        font-weight: bold;
+        font-size: 24px;
+        color: yellow;
+    }
+</style>
+
+	</head>
+	<body class="home page-template-default page page-id-9">
+
+        <dialog id="myModal">
+            <div id="modal-content">
+                <!-- <p id="first-line">Thank you for reaching us!</p> -->
+                <p id="second-line">For urgent support, call us at:</p>
+                <p id="number">123456789</p>
+                <button id="modal-button" onclick="document.getElementById('myModal').close()">Close</button>
+            </div>
+        </dialog>
+
+        <!-- <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLongTitle">Modal title</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <div class="modal-body">
+                  ...
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                  <button type="button" class="btn btn-primary">Save changes</button>
+                </div>
+              </div>
+            </div>
+          </div> -->
+
+		<!-- wrapper -->
+		<div class="ger_the_wrapper">
+
+			<!-- header -->
+			<header class="header clear" role="banner">
+<!--                <div class="promo-bar">-->
+                   <!-- <div class="promo-copy"><a href="tel:#">Call Us (1-888-810-2903)</a></div> -->
+<!--                </div>-->
+                <div class="mobile-menu">
+                    <ul id="mobile" class="menu"><li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="company/index.html">Company</a></li>
+<li id="menu-item-851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-851"><a rel="privacy-policy" href="privacy-policy/index.html">Privacy Policy</a></li>
+<li id="menu-item-853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-853"><a href="terms-conditions/index.html">Terms &#038; Conditions</a></li>
+<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="contact-us/index.html">Contact Us</a></li>
+<li id="menu-item-474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-474"><a href="blog/index.html">Blog</a></li>
+</ul>                </div>
+                <div class="nav-wrap container" style="padding: 10px 30px;" >
+                    <div class="logo-wrap"><a><img src="./images/logo.webp" style="width:80px; border-radius: 50%;" alt="BTM logo"></a></div>
+					
+					<div style="" class="telephone_header"><a href="tel:1-888-810-2903">(1-888-810-2903)</a></div>
+                    <nav class="nav" role="navigation">
+                        <ul id="menu-primary" class="nav navbar-nav"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41">
+                            <a title="BTM Locations" onclick="document.getElementById('myModal').showModal()" style="cursor: pointer;">BTM locations</a>
+                        </li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a onclick="document.getElementById('myModal').showModal()" style="cursor: pointer;">Host a BTM</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a onclick="document.getElementById('myModal').showModal()" style="cursor: pointer;">Company</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a onclick="document.getElementById('myModal').showModal()" style="cursor: pointer;">FAQ</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45"><a onclick="document.getElementById('myModal').showModal()" style="cursor: pointer;">Get Started</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a onclick="document.getElementById('myModal').showModal()" style="cursor: pointer;">Contact Us</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-47" class="account-create menu-item menu-item-type-custom menu-item-object-custom menu-item-47"><a onclick="document.getElementById('myModal').showModal()" style="cursor: pointer;">Create Your Account Now</a></li>
+</ul>                    </nav>
+                    <div class="ham-wrap">
+                        <div class="ham h1"></div>
+                        <div class="ham h2"></div>
+                        <div class="ham h3"></div>
+                    </div>
+                </div>
+			</header>
+			<!-- /header -->
+
+<main>
+    <section id="hero">
+        <div class="container">
+            <div class="hero hero2024">
+                <div class="hero-content">
+                    <div class="hero-inner">
+                        <div class="hero-sub" style="color: orangered;">Buy up to $50,000 per day</div>
+                        <h1>
+                            <div style="color: #FFD700;">With BTM<span style="color: #00FFFF;">.</span></div>
+                        </h1>
+                        <div class="hero-copy" style="color: skyblue;">
+                            <br><br>
+                            From an ATM at a nearby retail grocery store or gas station
+                            <br><br>
+                            Your digital assets are transferred instantly to the digital wallet of your choice
+                        </div>
+                    </div>
+                    <div class="hero-inner">
+                        <a class="step-btn"  style="background-color: orangered; cursor: pointer;" href="#maps">BTM Locations</a>
+
+<!--                        <div class="tools">-->
+<!--                            <div class="tools-inner">-->
+                               <!-- <input id="zipcode-search" type="text" placeholder="Enter your Zip Code Here" > -->
+<!--                                <div href="#" id="search-by-zip" class="btn btn-primary"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M23.809 21.646l-6.205-6.205c1.167-1.605 1.857-3.579 1.857-5.711 0-5.365-4.365-9.73-9.731-9.73-5.365 0-9.73 4.365-9.73 9.73 0 5.366 4.365 9.73 9.73 9.73 2.034 0 3.923-.627 5.487-1.698l6.238 6.238 2.354-2.354zm-20.955-11.916c0-3.792 3.085-6.877 6.877-6.877s6.877 3.085 6.877 6.877-3.085 6.877-6.877 6.877c-3.793 0-6.877-3.085-6.877-6.877z"></path></svg></div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+
+                        <div class="tools">
+                            <div class="tools-inner">
+                                <input id="banner-zipcode-search" type="text" placeholder="Enter your Zip Code Here" onclick="document.getElementById('myModal').showModal()" style="cursor: pointer;">
+                                <div href="#" id="banner-search-by-zip" class="btn btn-primary">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M23.809 21.646l-6.205-6.205c1.167-1.605 1.857-3.579 1.857-5.711 0-5.365-4.365-9.73-9.731-9.73-5.365 0-9.73 4.365-9.73 9.73 0 5.366 4.365 9.73 9.73 9.73 2.034 0 3.923-.627 5.487-1.698l6.238 6.238 2.354-2.354zm-20.955-11.916c0-3.792 3.085-6.877 6.877-6.877s6.877 3.085 6.877 6.877-3.085 6.877-6.877 6.877c-3.793 0-6.877-3.085-6.877-6.877z"></path></svg>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="hero-floater">
+                    <img src="wp-content/uploads/2021/07/home-hero-bg2.png" alt="hero element">
+                </div>
+            </div>
+        </div>
+    </section>
+    <section style="display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 60px; box-sizing: border-box;">
+        <h2 style="font-size: 35px; color: orangered; text-align: center;">What is a BTM?</h2>
+        <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+            <div class="subhead" style="display: flex; flex-direction: column; align-items: center; justify-content: center; color: blue; text-align: left; line-height: 1.5; margin-top: 20px">
+                <p style="margin: 5px;">A BTM, also known as a BTM Teller Machine, is a kiosk where you can convert cash into virtual currency and vice versa. BTM machines provide a convenient way to buy or sell a wide range of digital assets, especially for individuals without access to online purchasing methods. They function similarly to traditional bank ATMs—requiring an account and an SMS code for access.</p>
+                <p style="margin: 5px;">BTMs are also easy to find, with tens of thousands available across the US. You're likely to have one nearby! They are commonly located in convenient places like grocery stores, pharmacies, shopping malls, and gas stations, making access simple and hassle-free.</p>
+                <p style="margin: 5px;">Whether you're looking to buy or sell digital assets, BTMs offer a fast and secure way to manage your transactions. Simply find a BTM near you and start your virtual currency journey with ease.</p>
+            </div>
+            
+            <div>
+                <img src="./images/image-2.jpg" alt="" style="height: 350px; width: 350px; border-radius: 50%;">
+            </div>
+        </div>   
+    </section>
+    <section id="steps">
+        <div style="background-color: orangered;" class="red-line"></div>
+        <h2 style="font-size: 30px; color: orangered;">Curious about BTM? Try a BTM<span style="color: cyan;">.</span></h2>
+        <div class="subhead" style="color: blue;">
+            BTM powers thousands of digital assets and currencies around the country
+            <!-- <br/><br/> -->
+        </div>
+        <div class="steps-centered">
+            <div class="steps-outer">
+                <div class="steps-inner">
+                    <div class="step-wrap-wrap">
+                        <div class="step-wrap" style="display: flex; flex-direction: column; justify-content: space-between;">
+                            <div>
+
+                                <div style="display: flex;">
+                                    <div class="step-icon"><img src="./images/create-account.png" alt="step 2"></div>
+                                    <div class="step-title">
+                                        <div class="step-gray" style="color: orangered;">Step 1</div>
+                                        <div style="color: #0693e3;">Create Your Account</div>
+                                    </div>
+                                </div>
+                                <div class="step-copy" style="color: blue;">
+                                    <!-- Touch the screen and enter your phone number. You'll only need to create your account once. Follow the instructions sent to you via text message. -->
+                                    Setting up a BTM account is simple and can be done online or through the BTM App. After creating your account, you can easily locate the nearest BTM directly within the app!
+                                    <br><br>
+                                    <span style="color: orangered;">Click below to find the nearest BTM.</span>
+                                </div>
+                            </div>
+                            <div class="step-copy" style="margin-bottom: 13px;">
+                                <a class="step-btn" style="background-color: orangered; cursor: pointer;" onclick="document.getElementById('myModal').showModal()">Create Account</a>
+                            </div>
+                    </div>
+                    </div>
+                </div>
+                <div class="steps-inner">
+                    <div class="step-wrap-wrap">
+                        <div class="step-wrap">
+                        <div class="step-icon"><img src="./images/location.png" alt="step 1"></div>
+                        <div class="step-title">
+                            <div class="step-gray" style="color: orangered;">Step 2</div>
+                            <div style="color: #0693e3;">Find Your Nearest BTM</div>
+                        </div>
+                        <div class="step-copy" style="color: blue;">
+                            With over 40,000 BTM locations, trading virtual currency is as easy as shopping at your local supermarket. Through participating BTM, MoneyGram, and ReadyCode locations, buying and selling digital assets with cash has never been more simple or convenient.
+                            <br><br>
+                            <span style="color: orangered;">Click below to find the nearest BTM.</span>
+                            <a class="step-btn" style="background-color: orangered; cursor: pointer;" onclick="document.getElementById('myModal').showModal()">Find BTM Location</a>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                <div class="steps-inner">
+                    <div class="step-wrap-wrap">
+                        <div class="step-wrap">
+                        <div class="step-icon"><img src="./images/purchase-2.png" alt="step 3"></div>
+                        <div class="step-title">
+                            <div class="step-gray" style="color: orangered;">Step 3</div>
+                            <div style="color: #0693e3;">Purchase BTC at BTM</div>
+                        </div>
+                        <div class="step-copy" style="color: blue;">
+                            At most locations, you can purchase up to $3,000 in BTM using BTM machines. Simply provide your phone number and the cash for your purchase. Your phone number securely connects your transaction to your account.
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                <div class="steps-inner">
+                    <div class="step-wrap-wrap">
+                        <div class="step-wrap">
+                        <div class="step-icon"><img src="./images/digital-wallet.png" alt="step 4"></div>
+                        <div class="step-title">
+                            <div class="step-gray" style="color: orangered;">Step 4</div>
+                            <div style="color: #0693e3;">Automatic Digital asset</div>
+                        </div>
+                        <div class="step-copy" style="color: blue;">
+                            BTM machines issue a physical receipt as proof of purchase, while your digital asset is instantly added to your BTM wallet. No further action is required!
+                        </div>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section style="display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 60px; box-sizing: border-box;">
+        <h2 style="font-size: 35px; color: orangered; text-align: center;">Buy Digital asset with cash at BTM<span style="color: cyan;">.</span> </h2>
+        <div style="color: orange; font-size: 20px;">
+            BTMs enable instant transactions to your wallet, offer high daily purchase limits, and feature intuitive, user-friendly interfaces.
+        </div>
+        <div class="subhead" style="display: flex; flex-direction: column; align-items: center; justify-content: center; color: blue; text-align: left; line-height: 1.5; margin-top: 20px;">
+            <p style="margin: 5px; flex: 1;">
+                Explore over 6,000 powered BTMs where you can seamlessly convert cash into digital assets, making the buying process effortless. Instantly acquire any of the 7 supported digital currencies with ease!
+            </p>
+            <img style="flex: 1; border-radius: 50%; height: 350px; width: 350px;" src="./images/image-1.png" alt="">
+        </div>
+    </section>
+    <section id="save-time">
+        <div class="container">
+            <div class="time-element">
+                <div class="left">
+                    <h2>Save Time Creating Your Account Online!</h2>
+                    <div class="time-copy">
+                        <div>Speed up the process when you create your account online.</div>
+                        <a href="#" target="_blank">Click here to create your account online instead of at the ATM.</a>
+                        <div>The process will take a few minutes, and you'll only need to create your account once.</div>
+                    </div>
+                    <a href="#" target="_blank">
+                        Create Your Account Now
+                        <img src="wp-content/uploads/2021/07/white-arrow.png" alt="create an account">
+                    </a>
+                </div>
+                <div class="right">
+                    <img src="wp-content/uploads/2021/07/save-time-icon.png" alt="create an account online">
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="about" style="display: flex; flex-direction: column; align-items: center; justify-content: center; box-sizing: border-box;">
+        
+        <h2 style="font-size: 35px; color: orangered;">Safe and Trusted BTM<span style="color: #00FFFF;">.</span></h2>
+        <div style="width: 15%; height: 2px; background-color: orangered;"></div>
+        <!-- <div style="background-color: orangered;" class="red-line"></div> -->
+        <div class="atm-flexer">
+            <!-- <div class="atm-wrap"><img class="atm" src="./images/btm.png" alt="BTM"></div> -->
+            <div class="benies-wrap" style="padding-bottom: 100px;">
+                <div class="outer-benie ob1" style="padding-bottom: 40px;">
+                    <div class="inner-bennie">
+                        <div class="bennie-icon"><i class="fas fa-lock" style="color: rgb(254, 254, 53); font-size: 50px;"></i></div>
+                        <div class="b-inner-w">
+                            <div class="bennie-title">Secure Transactions</div>
+                            <div class="blue-line"></div>
+                            <div class="bennie-copy" style="color: cyan;">
+                                Transactions made through our BTM are securely linked to your account using your phone number.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="outer-benie ob2" style="padding-bottom: 40px;">
+                    <div class="inner-bennie">
+                        <div class="bennie-icon"><i class="fas fa-money-bill-wave" style="color: rgb(254, 254, 53); font-size: 50px;"></i></div>
+                        <div class="b-inner-w">
+                            <div class="bennie-title">Cash Convenience</div>
+                            <div class="blue-line"></div>
+                            <div class="bennie-copy" style="color: cyan;">
+                                You can purchase up to $3,000 in digital assets per day through a BTM, providing a convenient way to buy securely. Please note that limits apply.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="outer-benie ob3" style="padding-bottom: 40px;">
+                    <div class="inner-bennie">
+                        <div class="bennie-icon"><i class="fas fa-graduation-cap" style="color: rgb(254, 254, 53); font-size: 50px;"></i></div>
+                        <div class="b-inner-w">
+                            <div class="bennie-title" >Easy for Beginners</div>
+                            <div class="blue-line"></div>
+                            <div class="bennie-copy" style="color: cyan;">Trust us, it's incredibly easy — so simple that anyone can do it with ease.</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="outer-benie ob4" style="padding-bottom: 40px;">
+                    <div class="inner-bennie">
+                        <div class="bennie-icon"><i class="fas fa-store" style="color: rgb(254, 254, 53); font-size: 50px;"></i></div>
+                        <div class="b-inner-w">
+                            <div class="bennie-title" >It's Near You</div>
+                            <div class="blue-line"></div>
+                            <div class="bennie-copy" style="color: cyan;">Chances are, there's a BTM conveniently located near you, making it easy to access and trade digital assets anytime.</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="outer-benie ob5" style="padding-bottom: 40px;">
+                    <div class="inner-bennie">
+                        <div class="bennie-icon"><i class="fas fa-balance-scale" style="color: rgb(254, 254, 53); font-size: 50px;"></i></div>
+                        <div class="b-inner-w">
+                            <div class="bennie-title">Licensed and Regulated</div>
+                            <div class="blue-line"></div>
+                            <div class="bennie-copy" style="color: cyan;">BTM is a licensed money service business registered with FinCEN.</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="outer-benie ob6" style="padding-bottom: 40px;">
+                    <div class="inner-bennie">
+                        <div class="bennie-icon"><i class="fas fa-bolt" style="color: rgb(254, 254, 53); font-size: 50px;"></i></div>
+                        <div class="b-inner-w">
+                            <div class="bennie-title" >It's Instant</div>
+                            <div class="blue-line"></div>
+                            <div class="bennie-copy" style="color: cyan;">Digital asset purchases are instantly deposited into your BTM wallet.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <a name="bal"></a>
+    <section id="maps">
+        <div style="background-color: orangered;" class="red-line"></div>
+        <h2>Find a BTM Location Near You</h2>
+        <div class="container">
+            <div class="wraptastic" id="locations">
+                <div class="list-side">
+                    <div class="tools">
+                        <div class="tools-inner">
+                            <input id="zipcode-search" type="text" placeholder="Enter your Zip Code Here" onclick="document.getElementById('myModal').showModal()" style="cursor: pointer;">
+                            <div href="#" id="search-by-zip" class="btn btn-primary"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M23.809 21.646l-6.205-6.205c1.167-1.605 1.857-3.579 1.857-5.711 0-5.365-4.365-9.73-9.731-9.73-5.365 0-9.73 4.365-9.73 9.73 0 5.366 4.365 9.73 9.73 9.73 2.034 0 3.923-.627 5.487-1.698l6.238 6.238 2.354-2.354zm-20.955-11.916c0-3.792 3.085-6.877 6.877-6.877s6.877 3.085 6.877 6.877-3.085 6.877-6.877 6.877c-3.793 0-6.877-3.085-6.877-6.877z"/></svg></div>
+                        </div>
+                    </div>
+                    <div id="listings">
+
+                    </div>
+                    <div style="background-color: orangered;" id="near-me" onclick="document.getElementById('myModal').showModal()" style="cursor: pointer;">See All BTM Locations Near By</div>
+                </div>
+
+                <div class="m-wrap">
+
+                    <div id="map"></div>
+                </div>
+            </div>
+        <script>
+
+            var map;
+            var markers = [];
+            var infoWindow;
+            var locationSelect;
+
+            jQuery( ".tools-toggle" ).click(function() {
+                if(jQuery(".tools").hasClass("open")) {
+                    jQuery(".tools").removeClass("open");
+                    jQuery(".tools-toggle svg").addClass("fa-arrow-alt-circle-right").removeClass("fa-arrow-alt-circle-left");
+                }
+                else {
+                    jQuery(".tools").addClass("open");
+                    jQuery(".tools-toggle svg").addClass("fa-arrow-alt-circle-left").removeClass("fa-arrow-alt-circle-right");
+                }
+
+            });
+
+            jQuery("#zipcode-search").keypress(function(e) {
+                if(e.which == 13) {
+                    if(jQuery('#radius-filter').val() == '')
+                        alert("Please specify a search radius");
+                    else
+                        searchLocations('');
+                }
+            });
+            jQuery( "#search-by-zip" ).click(function(e) {
+                // e.preventDefault();
+                if(jQuery('#radius-filter').val() == '')
+                    alert("Please specify a search radius");
+                else
+                    searchLocations('');
+            });
+            jQuery( "#near-me" ).click(function(e) {
+                console.log('in here');
+            navigator.geolocation.getCurrentPosition(showLocation, errorHandler );
+
+            function showLocation(position) {
+                var latitude = position.coords.latitude;
+                var longitude = position.coords.longitude;
+                //alert("Latitude : " + latitude + " Longitude: " + longitude);
+                //jQuery('#zipcode-search').val(latitude+','+longitude);
+                jQuery('#radius-filter').val(20);
+
+                jQuery('#listings').empty();
+
+                searchLocations(latitude+','+longitude);
+            }
+
+
+
+
+            function errorHandler(err) {
+                if(err.code == 1) {
+                    // alert("Error: Access is denied!");
+                } else if( err.code == 2) {
+                    // alert("Error: Position is unavailable!");
+                }
+            }
+            });
+
+            function initMap() {
+
+
+                map = new google.maps.Map(document.getElementById('map'), {
+                    center: new google.maps.LatLng(39.709064,-95.8970117),
+                    zoom: 5
+                });
+
+                infoWindow = new google.maps.InfoWindow;
+                google.maps.event.addListener(infoWindow, 'domready', function() {
+
+                });
+
+
+                downloadUrl('wp-content/plugins/ph-maps/InstallsFile.xml', function (data) {
+                    var xml = data.responseXML;
+                    var markersfile = xml.documentElement.getElementsByTagName('marker');
+
+                    Array.prototype.forEach.call(markersfile, function (markerElem) {
+                        //var id = markerElem.getAttribute('id');
+                        // var name = markerElem.getAttribute('name');
+
+                        var address = markerElem.getAttribute('address');
+                        var storeName = markerElem.getAttribute('store_name');
+                        var phone = markerElem.getAttribute('phone');
+                        var ms = markerElem.getAttribute('ms');
+                        var s = markerElem.getAttribute('s');
+                        var maplink = markerElem.getAttribute('map');
+                        var fb = markerElem.getAttribute('fb');
+                        var yelp = markerElem.getAttribute('yelp');
+                        var store_img = markerElem.getAttribute('store_img');
+                        var order = markerElem.getAttribute('order');
+                        var catering = markerElem.getAttribute('catering');
+                        var page_url = markerElem.getAttribute('page_url');
+                        // console.log(markerElem.getAttribute('lat'));
+                        //var type = markerElem.getAttribute('type');
+                        var point = new google.maps.LatLng(
+                            parseFloat(markerElem.getAttribute('lat')),
+                            parseFloat(markerElem.getAttribute('lng')));
+
+
+                        // console.log(point);
+
+                        var contentString = '<div >\n' +
+
+                            '<div class="store-name"><a href="'+page_url+'">'+storeName+'</a></div>\n' +
+                        '<ul class="list-unstyled">\n' +
+                        '<li class="address">'+address+'</li>\n' +
+                        '<li class="hours">'+ms+'</li>\n' +
+                        '</ul>\n' +
+                        '</div>';
+
+
+                        var infowincontent = document.createElement('div');
+                        var strong = document.createElement('strong');
+                        strong.textContent = name
+                        infowincontent.appendChild(strong);
+                        infowincontent.appendChild(document.createElement('br'));
+                        //mycolor = myColor(chain);
+                        var text = document.createElement('text');
+                        text.textContent = storeName + address;
+                        infowincontent.appendChild(text);
+
+                        //var infowindow = new google.maps.InfoWindow({
+                        //    content: contentString
+                        //});
+                        var image = {};
+
+                        image = {
+                            url: '/wp-content/uploads/2021/07/AATM-Map-Pin.png',
+                            origin: new google.maps.Point(0, 0),
+                            scaledSize: new google.maps.Size(25, 29),
+                        };
+
+                        var marker = new google.maps.Marker({
+                            map: map,
+                            position: point,
+                            //label: average,
+                            //label: {text: chain[0], color: "white", fontWeight: "bold"},
+                            icon: image,
+                        });
+
+                        marker.addListener('click', function() {
+                            //infoWindow.close();
+                            infoWindow.setContent(contentString);
+                            infoWindow.open(map, marker);
+                        });
+                        markers.push(marker);
+                        //jQuery('#listings').empty();
+                        jQuery('#listings').append( '<div >\n' +
+
+                            '<div class="store-name"><a href="'+page_url+'">'+storeName+'</a></div>\n' +
+                            '<ul class="list-unstyled">\n' +
+                            '<li class="address">'+address+'</li>\n' +
+                            '<li class="hours">'+ms+'</li>\n' +
+                            '</ul>\n' +
+                            '</div>');
+
+                    });
+                });
+
+            }
+
+            function searchLocations(latlong) {
+                var address = document.getElementById("zipcode-search").value;
+                jQuery('#listings').empty();
+                if(latlong != '') {
+                    address = latlong;
+                }
+
+                var geocoder = new google.maps.Geocoder();
+                geocoder.geocode({address: address}, function(results, status) {
+                    console.log(results);
+                    if (status == google.maps.GeocoderStatus.OK) {
+                        zipCodeSearch(results[0].geometry.location);
+                    } else {
+                        alert(address + ' not found');
+                    }
+                    map.setCenter(results[0].geometry.location);
+                    jQuery('#zipcode-search').val('');
+
+                });
+            }
+
+
+            function setMapOnAll(map) {
+                for (var i = 0; i < markers.length; i++) {
+                    markers[i].setMap(map);
+                }
+            }
+
+            function clearMarkers() {
+                setMapOnAll(null);
+                jQuery('#listings').empty();
+            }
+
+            function clearLocations() {
+                //infoWindow.close();
+                for (var i = 0; i < markers.length; i++) {
+                    markers[i].setMap(null);
+                }
+                clearMarkers();
+                markers = [];
+                markers.length = 0;
+
+                //locationSelect.innerHTML = "";
+                //var option = document.createElement("option");
+                //option.value = "none";
+                //option.innerHTML = "See all results:";
+                //locationSelect.appendChild(option);
+            }
+
+            function zipCodeSearch(center) {
+                clearLocations();
+                // var radius = 200;
+                var radius = 10;
+
+                //map.setCenter(center)
+                var searchUrl = 'wp-content/plugins/ph-maps/radius-searchdd79.php?lat=' + center.lat() + '&lng=' + center.lng() + '&radius=' + radius;
+                downloadUrl(searchUrl, function(data) {
+                    console.log(data);
+                    var xml = data.responseXML;
+
+                    console.log(xml);
+                    var markerNodes = xml.documentElement.getElementsByTagName("marker");
+
+                    var bounds = new google.maps.LatLngBounds();
+                    for (var i = 0; i < markerNodes.length; i++) {
+                        //var id = markerNodes[i].getAttribute("id");
+                        //var name = markerNodes[i].getAttribute("name");
+                        var address = markerNodes[i].getAttribute('address');
+                        var storeName = markerNodes[i].getAttribute('store_name');
+                        var phone = markerNodes[i].getAttribute('phone');
+                        var ms = markerNodes[i].getAttribute('ms');
+                        var s = markerNodes[i].getAttribute('s');
+                        var maplink = markerNodes[i].getAttribute('map');
+                        var fb = markerNodes[i].getAttribute('fb');
+                        var yelp = markerNodes[i].getAttribute('yelp');
+                        var store_img = markerNodes[i].getAttribute('store_img');
+                        var catering = markerNodes[i].getAttribute('catering');
+                        var page_url = markerNodes[i].getAttribute('page_url');
+                        var order = markerNodes[i].getAttribute('order');
+                        var distance = parseFloat(markerNodes[i].getAttribute("distance"));
+                        var latlng = new google.maps.LatLng(
+                            parseFloat(markerNodes[i].getAttribute("lat")),
+                            parseFloat(markerNodes[i].getAttribute("lng")));
+                        //console.log(address);
+                        //createOption(name, distance, i);
+
+                        var image = {};
+
+
+                        image = {
+                            url: '/wp-content/uploads/2021/07/AATM-Map-Pin.png',
+                            origin: new google.maps.Point(0, 0),
+                            scaledSize: new google.maps.Size(25, 29),
+                        };
+
+                        createMarker(latlng, address, image, storeName, phone, ms, s, maplink, fb, yelp, store_img, catering, order, page_url);
+
+
+                        jQuery('#listings').append( '<div >\n' +
+
+                            '<div class="store-name"><a href="'+page_url+'">'+storeName+'</a></div>\n' +
+                            '<ul class="list-unstyled">\n' +
+                            '<li class="address">'+address+'</li>\n' +
+                            '<li class="hours">'+ms+'</li>\n' +
+                            '</ul>\n' +
+                            '</div>');
+
+                        bounds.extend(latlng);
+                    }
+                    if(markerNodes.length == 0) {
+                        alert("There are no ATMs in your area, please check back as we are expanding across the country.");
+                    }
+                    else {
+                        map.fitBounds(bounds);
+                    }
+
+                    //locationSelect.style.visibility = "visible";
+                    //locationSelect.onchange = function() {
+                    //   var markerNum = locationSelect.options[locationSelect.selectedIndex].value;
+                    //   google.maps.event.trigger(markers[markerNum], 'click');
+                    //};
+                });
+
+
+            }
+
+
+
+
+
+            function createMarker(latlng, address, image, storeName, phone, ms, s, maplink, fb, yelp, store_img, catering, order, page_url) {
+                //console.log('adding a marker');
+                var contentString = '<div >\n' +
+
+                    '<div class="store-name"><a href="'+page_url+'">'+storeName+'</a></div>\n' +
+                    '<ul class="list-unstyled">\n' +
+                    '<li class="address">'+address+'</li>\n' +
+                    '<li class="hours">'+ms+'</li>\n' +
+                    '</ul>\n' +
+                    '</div>';
+                var marker = new google.maps.Marker({
+                    map: map,
+                    position: latlng,
+                    icon: image,
+                });
+                google.maps.event.addListener(marker, 'click', function() {
+                    infoWindow.setContent(contentString);
+                    infoWindow.open(map, marker);
+                });
+                markers.push(marker);
+                //console.log(markers);
+            }
+
+
+            function downloadUrl(url, callback) {
+                var request = window.ActiveXObject ?
+                    new ActiveXObject('Microsoft.XMLHTTP') :
+                    new XMLHttpRequest;
+
+                request.onreadystatechange = function () {
+                    if (request.readyState == 4) {
+                        request.onreadystatechange = doNothing;
+                        callback(request, request.status);
+                    }
+                };
+
+                request.open('get-business-ready-for--customers/index.html', url, true);
+                request.send(null);
+            }
+
+            function parseXml(str) {
+                if (window.ActiveXObject) {
+                    var doc = new ActiveXObject('Microsoft.XMLDOM');
+                    doc.loadXML(str);
+                    return doc;
+                } else if (window.DOMParser) {
+                    return (new DOMParser).parseFromString(str, 'text/xml');
+                }
+            }
+
+            function doNothing() {
+            }
+
+
+
+            jQuery(document).ready(function () {
+                // Add click event listener to the SVG button using jQuery
+                jQuery("#banner-search-by-zip").click(function () {
+                    // Get the zip code value from the first input
+                    var zipCode = jQuery("#banner-zipcode-search").val();
+
+                    // Set the value of the second input field
+                    jQuery("#zipcode-search").val(zipCode);
+
+                    // Scroll to the specific section of the page
+                    jQuery('html, body').animate({
+                        scrollTop: jQuery("a[name='bal']").offset().top
+                    }, 1000);
+                });
+            });
+
+
+        </script>
+            <script async defer
+                    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBQX1LSe9_64OxtUElhw-E9oDb1wipjQDE&amp;callback=initMap">
+
+            </script>
+
+
+
+        </div>
+    </section>
+    <section id="about2" style="padding: 100px;">
+        <div class="container" style="display: flex; flex-wrap: wrap; justify-content: center;">
+            <div style="flex: 1 1 350px; margin: 10px; text-align: center;"><img src="./images/btm.png" alt="" style="border-radius: 50%; height: 350px; width: 350px; object-fit: cover;"></div>
+            <div class="ab2" style="flex: 1 1 350px; margin: 10px; display: flex; flex-direction: column; align-items: left; justify-content:left;">
+                <div style="color: orangered; font-size: 35px;"><span style="color: green; font-size: 50px;">NEW! </span><br>Sell Digital asset for cash pick up at over 20,000 ReadyCode ATMs.
+                </div>
+                <br>
+                <div>BTM offers the simplest way to sell digital assets for instant cash pickup. With BTM-powered ATMs, converting your digital assets back into fiat currency is quick and hassle-free—no debit card required!
+                </div>
+                <div style="margin-top: 20px;"><button style="float: left; background-color: orangered; border: none; color: white; padding: 10px; text-align: center; text-decoration: none; display: inline-block; font-size: 20px; border-radius: 5px;" onclick="document.getElementById('myModal').showModal()" style="cursor: pointer;">BTM Locator</button></div>
+            </div>
+        </div>
+    </section>
+    <section id="about2" style="padding: 50px; background-color: rgb(239, 243, 244);">
+        <div class="container" style="display: flex; flex-wrap: wrap; justify-content: center;">
+            <div class="ab2" style="display: flex; flex-direction: column; align-items: center; justify-content: center; flex: 1 1 350px; margin: 10px;">
+                <div style="color: orangered; font-size: 35px;">Learn more about virtual currency, the blockchain, and digital currencies.</div><br>
+                <div>The BTM blog is packed with valuable insights to keep you informed about the latest trends in the virtual currency world. Learn about the <u>basics of the blockchain</u>, <u>how to get started with BTM</u>, or check out our <u>helpful Digital asset ATM guide</u>.</div>
+                <div style="margin-top: 20px;"><button style="float: left; background-color: orangered; border: none; color: white; padding: 10px; text-align: left; text-decoration: none; display: inline-block; font-size: 20px; border-radius: 5px;" onclick="document.getElementById('myModal').showModal()" style="cursor: pointer;">Go To Blog</button></div>
+            </div>
+            <div style="flex: 1 1 350px; margin: 10px; text-align: center;"><img src="./images/bitc.webp" alt="" style="border-radius: 50%; height: 350px; width: 350px; object-fit: cover;"></div>
+        </div>
+    </section>
+
+    <!-- FAQ -->
+    <style>
+        .accordion {
+            width: 100%;
+            margin: auto;
+            border-radius: 5px;
+            background: transparent;
+        }
+        .accordion-item {
+            margin: 20px 0;
+            border-bottom: 1px solid #ddd;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        .accordion-item:last-child {
+            border-bottom: none;
+        }
+        .accordion-header {
+            background: linear-gradient(to right, rgb(255, 142, 101), rgb(252, 202, 184));
+            color: white;
+            padding: 10px;
+            cursor: pointer;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 30px;
+        }
+        .accordion-content {
+            display: none;
+            padding: 15px;
+            background: rgb(234, 241, 241);
+            border-radius: 0 0 5px 5px;
+            font-size: 14px;
+        }
+        .accordion-header.active + .accordion-content {
+            display: block;
+        }
+        .accordion-arrow {
+            transition: transform 0.3s ease;
+        }
+        .accordion-header.active .accordion-arrow {
+            transform: rotate(180deg);
+        }
+
+        .accordion-arrow {
+            color: blue;
+        }
+    </style>
+    <section style="margin-top: 50px; margin-bottom: 50px;">
+        <div 
+            style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 30px; padding: 15px; color: orangered;">
+            Frequently Asked Questions
+        </div>
+        <div class="container" style="display: flex; flex-wrap: wrap; justify-content: center;">
+            <div class="accordion">
+                <div class="accordion-item">
+                    <div class="accordion-header">How do BTM work?<span class="accordion-arrow">&#9660;</span></div>
+                    <div class="accordion-content">
+                        BTMs allow you to buy or sell digital assets for cash. To use a BTM, you'll need to create an account with the ATM's operator. Once registered, you can insert cash to purchase digital assets or sell them for cash pickup at select ATMs. <span style="color: blue; cursor: pointer;" onclick="document.getElementById('myModal').showModal()">Learn more about how these machines work here</span>.
+                        <br><br>
+                        With BTMs, users can quickly and easily receive digital assets, offering a faster and more convenient experience compared to online exchanges.
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-header">Where can I find a BTM near me?<span class="accordion-arrow">&#9660;</span></div>
+                    <div class="accordion-content">Find BTM locations near you effortlessly with the BTM ATM Locator. This website allows you to search by city, state, or zip code, making it simple to locate the nearest ATM for quick and direct digital asset purchases.<span style="color: blue; cursor: pointer;" onclick="document.getElementById('myModal').showModal()"> Learn more about finding a location near you here</span>.</div>
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-header">What type of identification do I need to use a BTM?<span class="accordion-arrow">&#9660;</span></div>
+                    <div class="accordion-content">The identification required to use a BTM depends on the operator, but most BTMs <span style="color: blue; cursor: pointer;" onclick="document.getElementById('myModal').showModal()" style="cursor: pointer;">require a government-issued ID</span>. Did you know you can <span onclick="document.getElementById('myModal').showModal()" style="color: blue; cursor: pointer;">create a free BTM account in just minutes? Get started here</span>!</div>
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-header">What are the fees for using a BTM?<span class="accordion-arrow">&#9660;</span></div>
+                    <div class="accordion-content">BTM fees vary by operator, but most charge a fee for both buying and selling digital assets. These fees typically range from 7% to 20% of the transaction amount. <span style="color: blue; cursor: pointer;" onclick="document.getElementById('myModal').showModal()"">Learn more about fees here</span>.</div>
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-header">Can I buy or sell BTM with a BTM?<span class="accordion-arrow">&#9660;</span></div>
+                    <div class="accordion-content">Yes, you can buy or sell digital assets using a BTM. Most BTMs allow you to purchase digital assets with cash and sell them for cash. However, not all locations support both transactions, so <span style="color: blue; cursor: pointer;" onclick="document.getElementById('myModal').showModal()">be sure to find the right machine for your needs</span>!
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-header">What are the limits for buying or selling BTM with a BTM?<span class="accordion-arrow">&#9660;</span></div>
+                    <div class="accordion-content"><span style="color: blue; cursor: pointer;" onclick="document.getElementById('myModal').showModal()">The buying and selling limits</span> for BTMs vary by operator. However, most BTMs impose daily limits on the amount of digital assets you can purchase or sell in a single transaction.
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-header">What are the risks of using a BTM?<span class="accordion-arrow">&#9660;</span></div>
+                    <div class="accordion-content">Using a BTM comes with minimal risks, but it's important to stay vigilant with your personal information to avoid online scams. <span style="color: blue; cursor: pointer;" onclick="document.getElementById('myModal').showModal()"> Learn safety tips here</span>.</div>
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-header">How do I find a BTM that is not a scam?<span class="accordion-arrow">&#9660;</span></div>
+                    <div class="accordion-content">To find a legitimate BTM, use the BTM Locator to search for BTMs operated by BTM, the first licensed BTM operator in the U.S. since 2014. Always use good judgment when selecting a BTM. Thankfully, BTM locations are available in trusted neighborhood grocery stores. <span style="color: blue; cursor: pointer;" onclick="document.getElementById('myModal').showModal()">Learn more about staying safe here</span>.</div>
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-header">What are the benefits of using a BTM?<span class="accordion-arrow">&#9660;</span></div>
+                    <div class="accordion-content">Using a BTM <span style="color: blue; cursor: pointer;" onclick="document.getElementById('myModal').showModal()">offers many benefits</span>, including convenience and speed. It provides a quick and easy way to buy or sell digital assets with cash, allowing for near-instant transactions.
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-header">What's the difference between a BTM BTM and other competitors?<span class="accordion-arrow">&#9660;</span></div>
+                    <div class="accordion-content">BTM-powered BTMs and competing BTMs share many similarities, but what sets us apart is our <span style="color: blue; cursor: pointer;" onclick="document.getElementById('myModal').showModal()">convenient neighborhood locations, trusted brand partners, competitive fees, competitive fees and use of use</span>. With BTM, buying digital assets is easier than ever, all from a familiar grocery store or pharmacy near you.</div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+   
+</main>
+
+
+			<!-- footer -->
+			<footer class="footer" role="contentinfo">
+                <div class="container">
+                    <div class="logo-wrap-outer">
+                        <div class="logo-wrap-inner"><img src="./images/logo.webp" alt="" style="height: 100px; width: 100px; border-radius: 50%; margin-bottom: 20px;"></div>
+                        <div class="bbb-wrap"><img src="wp-content/uploads/2021/07/bbb.png" alt="A+ BBB rating"></div>
+                    </div>
+                    <div class="footer-navs">
+                        <div class="footer-nav">
+                            <ul id="footer-menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50" Buy up to $50,000 per day
+With BTM ><a onclick="document.getElementById('myModal').showModal()" style="cursor: pointer;">Company</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-851"><a onclick="document.getElementById('myModal').showModal()" style="cursor: pointer;" rel="privacy-policy" >Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-853"><a onclick="document.getElementById('myModal').showModal()" style="cursor: pointer;">Terms &#038; Conditions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a onclick="document.getElementById('myModal').showModal()" style="cursor: pointer;">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-474"><a onclick="document.getElementById('myModal').showModal()" style="cursor: pointer;">Blog</a></li>
+</ul>
+                            <div class="btm_locations_footer">
+                                <h2>BTM Locations</h2>
+
+                                <a class="state-listing"><span>Colorado BTMs </span></a>&nbsp;&nbsp;
+                                <a class="state-listing"><span>Florida BTMs</span></a>&nbsp;&nbsp;
+                                <a class="state-listing"><span>Michigan BTMs</span></a>&nbsp;&nbsp;
+                                <a class="state-listing"><span>New Jersey BTMs</span></a>&nbsp;&nbsp;
+                                <a class="state-listing"><span>Pennsylvania BTMs</span></a>&nbsp;&nbsp;
+                                <a class="state-listing"><span>Texas BTMs</span></a>                            </div>
+
+                        </div>
+                        <div class="legals">
+                            <a href="terms-conditions/index.html">Terms & Conditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="privacy-policy/index.html">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="refund-policy/index.html">Refund Policy</a>
+                        </div>
+                    </div>
+                    <div class="socials" style="width:75px;">
+                        <div src="socials-inner.html"><a onclick="document.getElementById('myModal').showModal()" style="cursor: pointer;">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg>
+                            </a></div>
+                        <div src="socials-inner.html"><a onclick="document.getElementById('myModal').showModal()" style="cursor: pointer;">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+                            </a></div>
+                        <!--<div src="socials-inner"><a href="#" target="_blank">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z"/></svg>
+                            </a></div>-->
+                        <!--<div src="socials-inner"><a href="#" target="_blank">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M24 4.557c-.883.392-1.832.656-2.828.775 1.017-.609 1.798-1.574 2.165-2.724-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-3.179 0-5.515 2.966-4.797 6.045-4.091-.205-7.719-2.165-10.148-5.144-1.29 2.213-.669 5.108 1.523 6.574-.806-.026-1.566-.247-2.229-.616-.054 2.281 1.581 4.415 3.949 4.89-.693.188-1.452.232-2.224.084.626 1.956 2.444 3.379 4.6 3.419-2.07 1.623-4.678 2.348-7.29 2.04 2.179 1.397 4.768 2.212 7.548 2.212 9.142 0 14.307-7.721 13.995-14.646.962-.695 1.797-1.562 2.457-2.549z"/></svg>
+                            </a></div>-->
+                    </div>
+                </div>
+			</footer>
+			<!-- /footer -->
+
+		</div>
+		<!-- /wrapper -->
+
+        <script>
+            let activeItem;
+            document.querySelectorAll(".accordion-header").forEach(header => {
+                header.addEventListener("click", () => {
+                    if (header === activeItem) {
+                        activeItem.classList.remove("active");
+                        activeItem.nextElementSibling.style.display = "none";
+                        activeItem = null;
+                    } else {
+                        if (activeItem) {
+                            activeItem.classList.remove("active");
+                            activeItem.nextElementSibling.style.display = "none";
+                        }
+                        header.classList.add("active");
+                        let content = header.nextElementSibling;
+                        content.style.display = "block";
+                        activeItem = header;
+                    }
+                });
+            });
+        </script>
+
+		<script type="text/javascript" id="heateor_sss_sharing_js-js-before">
+/* <![CDATA[ */
+function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!="function") {window.onload=e}else{window.onload=function() {t();e()}}};	var heateorSssSharingAjaxUrl = 'wp-admin/admin-ajax.html', heateorSssCloseIconPath = 'wp-content/plugins/sassy-social-share/images/close.png', heateorSssPluginIconPath = 'wp-content/plugins/sassy-social-share/images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 1;var heateorSssCopyLinkMessage = "Link copied.";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,"popUpWindow","height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status")}
+/* ]]> */
+</script>
+<script type="text/javascript" src="wp-content/plugins/sassy-social-share/public/js/sassy-social-share-publica783.js?ver=3.3.42" id="heateor_sss_sharing_js-js"></script>
+
+	</body>
+</html>
