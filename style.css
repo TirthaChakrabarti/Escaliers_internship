@@ -1,0 +1,158 @@
+@media screen and (max-width: 400px) {
+  .header__button {
+    font-size: 20px !important;
+  }
+
+  .front-page-hero__inner {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .hero-title {
+    line-height: 1;
+    padding-top: 60px;
+    padding-bottom: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #hero-title-span-one {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  #hero-title-span-two {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    font-size: 3em !important;
+  }
+  .front-page__app-wrapper {
+    flex-direction: column;
+  }
+  .front-page__bank {
+    padding: 0 !important;
+  }
+  .front-page-hero {
+    flex-direction: column;
+    align-items: center;
+  }
+  .front-page-hero__widget {
+    padding: 0;
+  }
+
+  #responsive-image {
+    padding: 0 !important;
+    border-radius: 20px !important;
+  }
+
+  #hero-image-one {
+    display: block !important;
+    /* padding-top: 30px; */
+  }
+
+  #hero-image-two {
+    display: none;
+  }
+
+  .front-page__bank {
+    margin-top: 50px;
+  }
+
+  #front-page__spend-token__image {
+    display: none;
+  }
+
+  .front-page__bank-item {
+    padding: 10px !important;
+    border-radius: 10px !important;
+  }
+
+  .front-page__bank-item > img {
+    width: 40px !important;
+    height: 40px !important;
+  }
+
+  .front-page__bank-search {
+    flex-direction: column;
+    padding: 40px 10px 0 10px !important;
+  }
+
+  #front-page__bank-search-child {
+    padding: 15px !important;
+  }
+
+  #front-page__bank-search__title {
+    text-align: center;
+    font-size: 35px !important;
+  }
+  .front-page__bank-search > input {
+    width: 100%;
+  }
+  .front-page__bank-search > button {
+    width: 100%;
+    margin-top: 10px;
+  }
+  .front-page-hero__inner {
+    gap: 0;
+  }
+
+  #all-in-one-inner {
+    margin-top: 60px !important;
+  }
+
+  .front-page__account {
+    padding: 0 !important;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .front-page__account-lg {
+    display: block !important;
+    padding: 15px;
+  }
+
+  .front-page__account-lg > p {
+    text-align: center;
+    font-size: 15px;
+  }
+
+  .front-page__bank-title {
+    text-align: center;
+    font-size: 15px;
+  }
+
+  #front-page__app-tagline {
+    text-align: center;
+  }
+
+  #easy-deposit {
+    text-align: center;
+  }
+
+  #take-control {
+    text-align: center;
+  }
+
+  #web3-community {
+    font-size: 32px !important;
+    margin-bottom: 30px;
+  }
+
+  #web3-community-image {
+    margin-top: 50px;
+  }
+
+  .front-page__account-inner {
+    margin-top: 0 !important;
+  }
+
+  .web3-community-lg {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    /* margin-bottom: 50px !important; */
+  }
+}
