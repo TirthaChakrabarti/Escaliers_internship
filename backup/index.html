@@ -1,0 +1,723 @@
+<!doctype html>
+<html dir="ltr" lang="en">
+
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon" />
+  <!-- ============ swiper js css  ============ -->
+  <link rel="stylesheet" href="cdn.jsdelivr.net/npm/swiper%4011/swiper-bundle.min.css" />
+  <!-- ============ odometer css  ============ -->
+  <link href="github.hubspot.com/odometer/themes/odometer-theme-default.css" rel="stylesheet" />
+  <!-- ============ aos css  ============ -->
+  <link href="assets/css/aos.css" rel="stylesheet" />
+  <!-- ============ glightbox css ============ -->
+  <link rel="stylesheet" href="cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
+  <!-- Tabler Icons stylesheets -->
+  <link rel="stylesheet" href="cdn.jsdelivr.net/npm/%40tabler/icons-webfont%40latest/dist/tabler-icons.min.css" />
+  <link rel="stylesheet" href="assets/css/style.html" />
+  <!-- ============ site favicon  ============ -->
+  <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon" />
+  <title>Antivirus IT Solutions and Services</title>
+  <script defer src="assets/js/app.js"></script>
+  <link href="assets/css/index.css" rel="stylesheet">
+
+</head>
+
+<body class="text-base lg:text-lg">
+  <main class="relative">
+    <!-- scroll top -->
+    <button
+      class="scroll-top group fixed bottom-8 right-5 z-50 flex size-12 translate-y-20 items-center justify-center rounded-full border-2 border-danger bg-white text-n8 opacity-0 duration-300 hover:border-primary hover:text-title sm:bottom-10 sm:right-10">
+      <div class="flex size-9 items-center justify-center rounded-full bg-danger duration-300 group-hover:bg-primary">
+        <i class="ti ti-chevrons-up text-2xl text-white duration-300"></i>
+      </div>
+    </button>
+    <!-- Mobile Menu -->
+    <div class="relative w-full xl:hidden">
+      <div id="overlay"
+        class="invisible fixed right-0 top-0 z-[32] h-screen w-0 bg-black bg-opacity-60 duration-700 ease-in-out"></div>
+      <nav class="fixed top-0 z-[31] w-full bg-white shadow-lg xl:hidden">
+        <div class="container relative flex items-center justify-between px-3 py-3 md:py-5">
+          <a href="index.html">
+            <img src="assets/images/anti-virus-logo.png" width="172" height="47" alt="logo" />
+          </a>
+          <button id="menuToggle" class="cursor-pointer bg-white p-2 xl:hidden">
+            <i class="ti ti-menu-2 text-[24px] text-primary" style="font-size: 30px"></i>
+          </button>
+        </div>
+      </nav>
+      <!-- Mobile Menu -->
+      <div id="mobileMenu"
+        class="fixed left-0 top-0 z-[33] h-screen w-full max-w-[350px] -translate-x-[120%] overflow-y-auto bg-light pb-4 shadow-2xl duration-700 ease-in-out xl:hidden">
+        <div class="flex items-center justify-between px-6 py-4">
+          <img src="assets/images/anti-virus-logo.png" width="172" height="47" alt="logo" />
+          <button id="closeMenu" aria-label="mobile menu close" class="cursor-pointer text-n2">
+            <i class="ti ti-x text-[24px]"></i>
+          </button>
+        </div>
+        <ul class="px-3">
+          <!-- Home -->
+          <li class="w-full">
+            <button class="flex w-full items-center justify-between px-3 py-2 text-n2">
+              <a href="index.html">
+                <span class="text-lg">Home</span>
+              </a>
+            </button>
+
+          </li>
+          <!-- Blogs -->
+          <li class="w-full">
+            <button class="flex w-full items-center justify-between px-3 py-2 text-n2">
+              <a href="index.html">
+                <span class="text-lg">About Us</span>
+              </a>
+            </button>
+
+          </li>
+          <!-- Services -->
+          <li class="w-full">
+            <button class="flex w-full items-center justify-between px-3 py-2 text-n2">
+              <a href="#">
+                <span class="text-lg">Services</span>
+              </a>
+              <i class="ti ti-plus text-[24px]"></i>
+            </button>
+            <ul class="submenu" style="display: none">
+              <li><a href="for-cybersecurity.html" class="inline-flex w-full px-5 py-2 text-n2">- For Cybersecurity Vendors</a></li>
+              <li><a href="for-CISOs.html" class="inline-flex w-full px-5 py-2 text-n2">- For CISOs and Enterprises</a></li>
+              <li><a href="for-analysts.html" class="inline-flex w-full px-5 py-2 text-n2">- For Analysts and Journalists</a></li>
+            </ul>
+
+          </li>
+
+
+          <!-- Contact Us -->
+          <li class="w-full">
+            <a class="inline-flex px-3 py-2 text-n2" onclick="document.getElementById('myModal').showModal()">Contact Us</a>
+          </li>
+          <!-- Pages -->
+
+          <li>
+            <button class="flex w-full items-center justify-between px-3 py-2 text-n2">
+              <a href="privacy-policy.html">
+                <span class="text-lg">Privacy Policy</span>
+              </a>
+            </button>
+          </li>
+          <button class="flex w-full items-center justify-between px-3 py-2 text-n2">
+            <a href="terms-and-conditions.html">
+              <span class="text-lg">Terms and Conditions</span>
+            </a>
+          </button>
+
+        </ul>
+        <div class="hidden items-center gap-5 xl:flex">
+          <button class="nav-bar-search-btn flex items-center justify-center rounded-full bg-n8 p-2 text-primary">
+            <i class="ti ti-search"></i>
+          </button>
+          <a href="#" class="btn-primary border-none bg-secondary"> Call Us at: 1234567890 </a>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- ==================== Banner Start ==================== -->
+    <section class="relative bg-gradient-to-b from-[#291C77] to-[#4636A5] pt-32 md:pt-40 xl:pt-0">
+      <img class="absolute right-[3%] top-[16%] hidden xl:block" src="assets/images/shield.png" width="338" height="338"
+        alt="element" />
+      <img class="animate-rotate absolute bottom-[25%] left-[3%] hidden xl:block" src="assets/images/globe.png"
+        width="300" height="300" alt="element" />
+
+      <div class="bg-[url(images/hero-4-bg.png)] bg-top bg-no-repeat xl:pt-[72px]">
+        <!-- desktop nav -->
+        <div class="desktop-nav-4-container fixed top-0 z-20 hidden w-full bg-n8 text-n8 xl:block xl:bg-transparent">
+          <div class="desktop-nav-4-inner relative z-30 hidden w-full py-2.5 xl:block">
+            <div class="container flex items-center justify-between">
+              <a href="index.html">
+                <img width="250" height="80" src="assets/images/anti-virus-logo.png" alt="logo" />
+              </a>
+              <div class="hidden items-center gap-3 xl:flex">
+                <ul class="relative flex gap-2">
+                  <li class="group relative cursor-pointer px-5 py-2.5">
+                    <span class="flex items-center duration-300 hover:text-secondary">
+                      <a href="index.html">
+                        <span class="font-medium">Home</span>
+                      </a>
+
+                    </span>
+
+
+                  </li>
+                  <li class="group relative cursor-pointer px-5 py-2.5">
+                    <span class="flex items-center duration-300 hover:text-secondary">
+                      <a href="index.html">
+                        <span class="font-medium">About Us</span>
+                      </a>
+
+                    </span>
+
+
+                  </li>
+                  <li class="group relative cursor-pointer px-5 py-2.5">
+                    <span class="flex items-center duration-300 hover:text-secondary">
+                      <span class="font-medium">Services</span>
+                      <i class="ti ti-chevron-down"></i>
+                    </span>
+                    <ul style="min-width: 250px;"
+                      class="group-hover:event-unset pointer-events-none invisible absolute left-0 top-[120%] grid w-full min-w-[440px] columns-1 grid-cols-1 bg-n7 p-3 text-n2 opacity-0 duration-300 group-hover:visible group-hover:top-full group-hover:opacity-100 lg:px-5">
+                      <li class="min-w-[180px]ksdksdk">
+                        <a class="relative inline-block py-2 duration-200 after:absolute after:bottom-0 after:right-0 after:h-0.5 after:w-0 after:bg-secondary after:transition-all after:duration-300 hover:after:left-0 hover:after:right-auto hover:after:w-full"
+                          href="for-cybersecurity.html">For Cybersecurity Vendors</a>
+                      </li>
+                      <li class="min-w-[180px]ksdksdk">
+                        <a class="relative inline-block py-2 duration-200 after:absolute after:bottom-0 after:right-0 after:h-0.5 after:w-0 after:bg-secondary after:transition-all after:duration-300 hover:after:left-0 hover:after:right-auto hover:after:w-full"
+                          href="For-CISOs.html">For CISOs and Enterprises</a>
+                      </li>
+                      <li class="min-w-[180px]ksdksdk">
+                        <a class="relative inline-block py-2 duration-200 after:absolute after:bottom-0 after:right-0 after:h-0.5 after:w-0 after:bg-secondary after:transition-all after:duration-300 hover:after:left-0 hover:after:right-auto hover:after:w-full"
+                          href="for-analysts.html">For Analysts and Journalists</a>
+                      </li>
+
+                    </ul>
+
+                  </li>
+                  <li class="group relative cursor-pointer px-5 py-2.5">
+                    <a class="font-medium duration-300 hover:text-secondary" onclick="document.getElementById('myModal').showModal()">Contact Us</a>
+                  </li>
+
+                </ul>
+                <!-- <div class="hidden items-center gap-5 xl:flex">
+                  <button
+                    class="nav-bar-search-btn flex items-center justify-center rounded-full bg-n8 p-2 text-primary">
+                    <i class="ti ti-search"></i>
+                  </button>
+                  <a href="#" class="btn-primary border-none bg-secondary"> Free Quote </a>
+                </div> -->
+                <div class="hidden items-center gap-5 xl:flex">
+
+                  <a href="tel:9876543210" class="btn-primary border-none bg-secondary"> Call Us at: 9876543210 </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="searchBar"
+            class="absolute left-0 right-0 top-0 z-30 w-full -translate-y-[200%] bg-n8 py-5 text-title shadow-lg duration-500 xl:py-9">
+            <div class="container">
+              <form
+                class="mx-auto flex max-w-[80%] flex-wrap items-center justify-between gap-4 md:flex-nowrap md:gap-6 xxl:max-w-full">
+                <div class="flex grow items-center gap-2 rounded-[30px] border border-n6 bg-light px-7 py-3">
+                  <i class="ti ti-search text-n4"></i>
+                  <input type="text" class="w-full bg-transparent focus:outline-none"
+                    placeholder="Write something to search...." />
+                </div>
+                <button class="btn-primary shrink-0">Search</button>
+              </form>
+              <span class="nav-bar-search-btn-close absolute right-8 top-[40%] h-full cursor-pointer text-title">
+                <i class="ti ti-x"></i>
+              </span>
+            </div>
+          </div>
+        </div>
+
+        <div class="bg-bottom bg-no-repeat pb-5 md:bg-[url(../images/mask-banner-4.png)] md:pb-0">
+          <div class="container">
+            <div class="mx-auto max-w-[1096px] text-center xl:mt-14">
+              <h4 class="h4 mb-4 font-semibold text-secondary">IT Security Support</h4>
+              <h1 class="h1 mb-7 text-n8">Reliable Support for Your Cybersecurity</h1>
+              <h2 style="color: lightgrey;">
+                We provide independent, data-driven insights into cybersecurity. Whether you're a CISO protecting
+                enterprise networks, a consumer looking for trusted security, an industry analyst evaluating solutions,
+                a journalist covering cyber threats, or an editor researching digital safety—our expertise is here to
+                assist you.
+              </h2>
+              <div class="mt-6 flex flex-wrap items-center justify-center gap-6 pb-12">
+                <a style="cursor: pointer;" onclick="document.getElementById('myModal').showModal()" class="btn-primary border-secondary bg-secondary">Know Our Services</a>
+                <a href="tel:9876543210" class="btn-white">
+                  <span>Let's Talk Now</span>
+                  <span class="flex items-center justify-center rounded-full bg-primary p-1 text-n8">
+                    <i class="ti ti-headphones"></i>
+                  </span>
+                </a>
+              </div>
+            </div>
+
+            <div class="relative grid grid-cols-12">
+              <div class="col-span-12 flex items-center justify-center lg:col-span-10 lg:col-start-2">
+                <img src="assets/images/home-page-banner.jpeg" class="w-full" width="1076" height="537" alt="video" />
+                <!-- <a href="#" class="glightbox-banner-video absolute">
+                  <span class="play-home-4-outer relative flex rounded-full bg-secondary p-4 text-n8">
+                    <span class="play-home-4 flex items-center justify-center">
+                      <i class="ti ti-player-play-filled"></i>
+                    </span>
+                  </span>
+                </a> -->
+              </div>
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ Security Start ============ -->
+    <section id="about" class="bg-n8 bg-[url('../images/security-bg-4.html')] bg-right-top bg-no-repeat py-16 lg:pb-[120px]">
+      <div class="container grid grid-cols-12 items-center gap-6">
+        <div class="col-span-12 xl:col-span-12">
+          <!-- <h5 class="h5 mb-5 text-primary">Experts in Cyber Security & Data Management</h5> -->
+          <h2 class="h2 mb-4 text-center text-title">Why Us?</h2>
+          <p class="mb-7 text-center text-para">Your trusted source for independent, data-backed cybersecurity insights.
+            Whether you're a CISO protecting enterprise networks, a consumer seeking the best security, an industry
+            analyst assessing solutions, a journalist reporting on cyber threats, or an editor exploring digital
+            safety—our expertise is here to support you.</p>
+          <!-- <ul class="mb-10 flex flex-col gap-2 font-medium text-para2">
+            <li class="flex items-center gap-2">
+              <i class="ti ti-circle-check-filled shrink-0 text-primary"></i>
+              Gain an understanding of compliance and security.
+            </li>
+            <li class="flex items-center gap-2">
+              <i class="ti ti-circle-check-filled shrink-0 text-primary"></i>
+              Response times that are lightning-fast
+            </li>
+            <li class="flex items-center gap-2">
+              <i class="ti ti-circle-check-filled shrink-0 text-primary"></i>
+              Always ready for your growth
+            </li>
+          </ul>
+          <div class="flex flex-wrap items-center gap-6">
+            <a href="contact.html" class="btn-primary"> Get Free Quote Now <i class="ti ti-arrow-narrow-right"></i> </a>
+            <a href="service-1.html" class="btn-outline"> Learn More <i class="ti ti-arrow-narrow-right"></i> </a>
+          </div> -->
+        </div>
+        <div class="col-span-12 grid grid-cols-2 gap-6 lg:grid-cols-4 lg:gap-y-0">
+          <div >
+            <div
+              class="from why_choose_us group relative z-[2] rounded-xl bg-n8 from-[#F4F2FF] to-[#FFFFFF] shadow-[0px_8px_40px_0px_rgba(0,0,0,0.05)] duration-300 hover:bg-gradient-to-t hover:shadow-[0px_20px_32px_0px_rgba(50,63,212,0.15)] group-hover:shadow-[0px_8px_40px_0px_rgba(0,0,0,0.15)]">
+              <div
+                class="bg-right-top bg-no-repeat p-4 group-hover:bg-[url('../images/element-7.html')] md:px-[30px] md:py-10">
+                <img width="80" height="80" src="assets/images/testing.png" alt="icon" />
+                <h5 class="h5 mb-2.5 mt-7 text-title">Independent Testing</h5>
+                <p class="mb-5">Unbiased evaluations of cybersecurity, IoT, and OT security solutions.</p>
+                <a href="service-details-1.html" class="flex items-center gap-2 font-medium text-primary"> Discover Now
+                  <i class="ti ti-arrow-narrow-right"></i> </a>
+              </div>
+            </div>
+          </div>
+          <div >
+            <div
+              class="from why_choose_us group relative z-[2] rounded-xl bg-n8 from-[#F4F2FF] to-[#FFFFFF] shadow-[0px_8px_40px_0px_rgba(0,0,0,0.05)] duration-300 hover:bg-gradient-to-t hover:shadow-[0px_20px_32px_0px_rgba(50,63,212,0.15)] group-hover:shadow-[0px_8px_40px_0px_rgba(0,0,0,0.15)]">
+              <div
+                class="bg-right-top bg-no-repeat p-4 group-hover:bg-[url('../images/element-7.html')] md:px-[30px] md:py-10">
+                <img width="80" height="80" src="assets/images/results.png" alt="icon" />
+                <h5 class="h5 mb-2.5 mt-7 text-title">Freely Accessible Results</h5>
+                <p class="mb-5">Trusted insights available to individuals, news organizations, and scientific
+                  institutions.</p>
+                <a href="service-details-1.html" class="flex items-center gap-2 font-medium text-primary"> Discover Now
+                  <i class="ti ti-arrow-narrow-right"></i> </a>
+              </div>
+            </div>
+          </div>
+          <div>
+            <div
+              class="from why_choose_us group relative z-[2] rounded-xl bg-n8 from-[#F4F2FF] to-[#FFFFFF] shadow-[0px_8px_40px_0px_rgba(0,0,0,0.05)] duration-300 hover:bg-gradient-to-t hover:shadow-[0px_20px_32px_0px_rgba(50,63,212,0.15)] group-hover:shadow-[0px_8px_40px_0px_rgba(0,0,0,0.15)]">
+              <div
+                class="bg-right-top bg-no-repeat p-4 group-hover:bg-[url('../images/element-7.html')] md:px-[30px] md:py-10">
+                <img width="80" height="80" src="assets/images/certification.png" alt="icon" />
+                <h5 class="h5 mb-2.5 mt-7 text-title">Globally Recognized Certification</h5>
+                <p class="mb-5">Our seal of approval signifies top-tier software performance.</p>
+                <a href="service-details-1.html" class="flex items-center gap-2 font-medium text-primary"> Discover Now
+                  <i class="ti ti-arrow-narrow-right"></i> </a>
+              </div>
+            </div>
+          </div>
+          <div >
+            <div
+              class="from why_choose_us group relative z-[2] rounded-xl bg-n8 from-[#F4F2FF] to-[#FFFFFF] shadow-[0px_8px_40px_0px_rgba(0,0,0,0.05)] duration-300 hover:bg-gradient-to-t hover:shadow-[0px_20px_32px_0px_rgba(50,63,212,0.15)] group-hover:shadow-[0px_8px_40px_0px_rgba(0,0,0,0.15)]">
+              <div
+                class="bg-right-top bg-no-repeat p-4 group-hover:bg-[url('../images/element-7.html')] md:px-[30px] md:py-10">
+                <img width="80" height="80" src="assets/images/industry-standard.png" alt="icon" />
+                <h5 class="h5 mb-2.5 mt-7 text-title">Industry Standard for Security</h5>
+                <p class="mb-5">Setting the benchmark for transparency and reliability in cybersecurity testing.</p>
+                <a href="service-details-1.html" class="flex items-center gap-2 font-medium text-primary"> Discover Now
+                  <i class="ti ti-arrow-narrow-right"></i> </a>
+              </div>
+            </div>
+          </div>
+        </div>
+    </section>
+
+    <!-- ============ Solution Start ============ -->
+    <section id="services" class="bg-light bg-[url('../images/solution-4-bg.html')] bg-left-top bg-no-repeat py-[60px] lg:py-[120px]">
+      <div class="container">
+        <div class="mx-auto max-w-5xl text-center">
+          <h5 class="h5 mb-5 text-primary">Our IT Security Solutions</h5>
+          <h2 class="h2 mb-5 text-title">Critical IT security Solutions for your company</h2>
+          <!-- <p class="mx-auto mb-10 max-w-2xl text-para lg:mb-[60px]">Itsolutio offers product engineering, warranty management, cloud, infrastructure, and network services. We can help reduce cyber risk.</p> -->
+        </div>
+        <div class="mb-10 grid grid-cols-12 gap-6 lg:mb-[60px]">
+          <div class="col-span-12 md:col-span-6 xl:col-span-4">
+            <div
+              class="group flex flex-col items-center rounded-[30px] border border-gray bg-bottom bg-no-repeat p-4 text-center duration-300 hover:bg-primary hover:bg-[url(../images/solution-4-circle-bg.png)] sm:p-6 xl:px-7 xl:py-10">
+              <img src="assets/images/enterprise.png" width="100" height="100" alt="icon" class="mb-7" />
+              <h5 class="h5 mb-5 text-title group-hover:text-n8">Enterprise Cybersecurity</h5>
+              <p class="mb-7 text-para group-hover:text-n8">Access independent test results for enterprise security
+                solutions, including EDR, XDR, firewalls, and endpoint protection. Compare leading products with
+                reliable, data-driven insights to make well-informed cybersecurity choices.</p>
+              <a class="flex items-center gap-2 text-base font-medium text-primary group-hover:text-n8" href="#">
+                Discover Now <i class="ti ti-arrow-narrow-right"></i> </a>
+            </div>
+          </div>
+          <div class="col-span-12 md:col-span-6 xl:col-span-4">
+            <div
+              class="group flex flex-col items-center rounded-[30px] border border-gray bg-bottom bg-no-repeat p-4 text-center duration-300 hover:bg-primary hover:bg-[url(../images/solution-4-circle-bg.png)] sm:p-6 xl:px-7 xl:py-10">
+              <img src="assets/images/consumers.png" width="100" height="100" alt="icon" class="mb-7" />
+              <h5 class="h5 mb-5 text-title group-hover:text-n8">Consumer Cybersecurity</h5>
+              <p class="mb-7 text-para group-hover:text-n8">Find independent test results for consumer security
+                software, including antivirus programs, internet security suites, and VPNs. Evaluate top solutions with
+                trusted, data-driven insights to ensure the best protection for your digital security.</p>
+              <a class="flex items-center gap-2 text-base font-medium text-primary group-hover:text-n8" href="#">
+                Discover Now <i class="ti ti-arrow-narrow-right"></i> </a>
+            </div>
+          </div>
+          <div class="col-span-12 md:col-span-6 xl:col-span-4">
+            <div
+              class="group flex flex-col items-center rounded-[30px] border border-gray bg-bottom bg-no-repeat p-4 text-center duration-300 hover:bg-primary hover:bg-[url(../images/solution-4-circle-bg.png)] sm:p-6 xl:px-7 xl:py-10">
+              <img src="assets/images/IOT.png" width="100" height="100" alt="icon" class="mb-7" />
+              <h5 class="h5 mb-5 text-title group-hover:text-n8">IoT and OT Security</h5>
+              <p class="mb-7 text-para group-hover:text-n8">Explore unbiased test results for Internet of Things (IoT)
+                and Operational Technology (OT) security solutions, covering everything from smart home and smart city
+                technologies to industrial cybersecurity. Gain trusted insights to ensure secure and resilient
+                operations.</p>
+              <a class="flex items-center gap-2 text-base font-medium text-primary group-hover:text-n8" href="#">
+                Discover Now <i class="ti ti-arrow-narrow-right"></i> </a>
+            </div>
+          </div>
+          <!-- <div class="col-span-12 md:col-span-6 xl:col-span-4">
+            <div class="group flex flex-col items-center rounded-[30px] border border-gray bg-bottom bg-no-repeat p-4 text-center duration-300 hover:bg-primary hover:bg-[url(../images/solution-4-circle-bg.png)] sm:p-6 xl:px-7 xl:py-10">
+              <img src="assets/images/solution4-4.png" width="100" height="100" alt="icon" class="mb-7" />
+              <h5 class="h5 mb-5 text-title group-hover:text-n8">Data Security</h5>
+              <p class="mb-7 text-para group-hover:text-n8">We provide the most responsive and functional IT solution to enterprises and businesses all around the globe.</p>
+              <a class="flex items-center gap-2 text-base font-medium text-primary group-hover:text-n8" href="#"> Discover Now <i class="ti ti-arrow-narrow-right"></i> </a>
+            </div>
+          </div>
+          <div class="col-span-12 md:col-span-6 xl:col-span-4">
+            <div class="group flex flex-col items-center rounded-[30px] border border-gray bg-bottom bg-no-repeat p-4 text-center duration-300 hover:bg-primary hover:bg-[url(../images/solution-4-circle-bg.png)] sm:p-6 xl:px-7 xl:py-10">
+              <img src="assets/images/solution4-5.png" width="100" height="100" alt="icon" class="mb-7" />
+              <h5 class="h5 mb-5 text-title group-hover:text-n8">Security Automation</h5>
+              <p class="mb-7 text-para group-hover:text-n8">We provide the most responsive and functional IT solution to enterprises and businesses all around the globe.</p>
+              <a class="flex items-center gap-2 text-base font-medium text-primary group-hover:text-n8" href="#"> Discover Now <i class="ti ti-arrow-narrow-right"></i> </a>
+            </div>
+          </div>
+          <div class="col-span-12 md:col-span-6 xl:col-span-4">
+            <div class="group flex flex-col items-center rounded-[30px] border border-gray bg-bottom bg-no-repeat p-4 text-center duration-300 hover:bg-primary hover:bg-[url(../images/solution-4-circle-bg.png)] sm:p-6 xl:px-7 xl:py-10">
+              <img src="assets/images/solution4-6.png" width="100" height="100" alt="icon" class="mb-7" />
+              <h5 class="h5 mb-5 text-title group-hover:text-n8">Infrastructure Security</h5>
+              <p class="mb-7 text-para group-hover:text-n8">We provide the most responsive and functional IT solution to enterprises and businesses all around the globe.</p>
+              <a class="flex items-center gap-2 text-base font-medium text-primary group-hover:text-n8" href="#"> Discover Now <i class="ti ti-arrow-narrow-right"></i> </a>
+            </div>
+          </div> -->
+        </div>
+        <div class="flex flex-wrap justify-center gap-6">
+          <a style="cursor: pointer;" onclick="document.getElementById('myModal').showModal()" class="btn-primary"> Contact Us</a>
+          <a href="tel: 9876543210" class="btn-outline">Talk to Us <i class="ti ti-arrow-narrow-right"></i> </a>
+        </div>
+      </div>
+    </section>
+
+
+    <section class="bg-n8 bg-[url('../images/security-bg-4.html')] bg-right-top bg-no-repeat py-16 lg:pb-[120px]">
+      <div class="container grid grid-cols-12 items-center gap-6">
+        <div class="col-span-12 xl:col-span-12">
+          <!-- <h5 class="h5 mb-5 text-primary">Experts in Cyber Security & Data Management</h5> -->
+          <h2 class="h2 mb-4 text-center text-title">Our Target Group</h2>
+        </div>
+        <div class="col-span-12 grid grid-cols-2 gap-6 lg:grid-cols-4 lg:gap-y-0">
+          <div>
+            <div
+              class="from group relative z-[2] rounded-xl bg-n8 from-[#F4F2FF] to-[#FFFFFF] shadow-[0px_8px_40px_0px_rgba(0,0,0,0.05)] duration-300 hover:bg-gradient-to-t hover:shadow-[0px_20px_32px_0px_rgba(50,63,212,0.15)] group-hover:shadow-[0px_8px_40px_0px_rgba(0,0,0,0.15)]">
+              <div
+                class="bg-right-top bg-no-repeat p-4 group-hover:bg-[url('../images/element-7.html')] md:px-[30px] md:py-10 flex items-center justify-center">
+                <img width="80" height="80" src="assets/images/consumer.png" alt="icon" />
+                <h5 class="h5 mb-2.5 mt-7 text-title">Consumers</h5>
+                <!-- <p class="mb-5">Unbiased evaluations of cybersecurity, IoT, and OT security solutions.</p>
+                <a href="service-details-1.html" class="flex items-center gap-2 font-medium text-primary"> Discover Now <i class="ti ti-arrow-narrow-right"></i> </a> -->
+              </div>
+            </div>
+          </div>
+          <div>
+            <div
+              class="from group relative z-[2] rounded-xl bg-n8 from-[#F4F2FF] to-[#FFFFFF] shadow-[0px_8px_40px_0px_rgba(0,0,0,0.05)] duration-300 hover:bg-gradient-to-t hover:shadow-[0px_20px_32px_0px_rgba(50,63,212,0.15)] group-hover:shadow-[0px_8px_40px_0px_rgba(0,0,0,0.15)]">
+              <div
+                class="bg-right-top bg-no-repeat p-4 group-hover:bg-[url('../images/element-7.html')] md:px-[30px] md:py-10 flex items-center justify-center">
+                <img width="80" height="80" src="assets/images/CISO.png" alt="icon" />
+                <h5 class="h5 mb-2.5 mt-7 text-title">CISOs</h5>
+                <!-- <p class="mb-5">Trusted insights available to individuals, news organizations, and scientific institutions.</p>
+                <a href="service-details-1.html" class="flex items-center gap-2 font-medium text-primary"> Discover Now <i class="ti ti-arrow-narrow-right"></i> </a> -->
+              </div>
+            </div>
+          </div>
+          <div>
+            <div
+              class="from group relative z-[2] rounded-xl bg-n8 from-[#F4F2FF] to-[#FFFFFF] shadow-[0px_8px_40px_0px_rgba(0,0,0,0.05)] duration-300 hover:bg-gradient-to-t hover:shadow-[0px_20px_32px_0px_rgba(50,63,212,0.15)] group-hover:shadow-[0px_8px_40px_0px_rgba(0,0,0,0.15)]">
+              <div
+                class="bg-right-top bg-no-repeat p-4 group-hover:bg-[url('../images/element-7.html')] md:px-[30px] md:py-10 flex items-center justify-center">
+                <img width="80" height="80" src="assets/images/analyst.png" alt="icon" />
+                <h5 class="h5 mb-2.5 mt-7 text-title">Analysts</h5>
+                <!-- <p class="mb-5">Our seal of approval signifies top-tier software performance.</p>
+                <a href="service-details-1.html" class="flex items-center gap-2 font-medium text-primary"> Discover Now <i class="ti ti-arrow-narrow-right"></i> </a> -->
+              </div>
+            </div>
+          </div>
+          <div>
+            <div
+              class="from group relative z-[2] rounded-xl bg-n8 from-[#F4F2FF] to-[#FFFFFF] shadow-[0px_8px_40px_0px_rgba(0,0,0,0.05)] duration-300 hover:bg-gradient-to-t hover:shadow-[0px_20px_32px_0px_rgba(50,63,212,0.15)] group-hover:shadow-[0px_8px_40px_0px_rgba(0,0,0,0.15)]">
+              <div
+                class="bg-right-top bg-no-repeat p-4 group-hover:bg-[url('../images/element-7.html')] md:px-[30px] md:py-10 flex items-center justify-center">
+                <img width="80" height="80" src="assets/images/vendors.jpeg" alt="icon" />
+                <h5 class="h5 mb-2.5 mt-7 text-title">Vendors</h5>
+                <!-- <p class="mb-5">Setting the benchmark for transparency and reliability in cybersecurity testing.</p>
+                <a href="service-details-1.html" class="flex items-center gap-2 font-medium text-primary"> Discover Now <i class="ti ti-arrow-narrow-right"></i> </a> -->
+              </div>
+            </div>
+          </div>
+        </div>
+    </section>
+    <!-- ============ Protect Start ============ -->
+    <section class="relative pb-[60px] lg:pb-[120px] xl:pt-[60px]">
+      <img width="161" height="188" class="absolute left-14 top-0 z-[2] hidden xl:block" src="assets/images/cube-1.png"
+        alt="img" />
+      <img width="259" height="304" class="absolute bottom-[23%] right-6 z-[2] hidden xl:block"
+        src="assets/images/cube-2.png" alt="img" />
+      <div
+        class="relative bg-primary bg-[url(../images/work-process-bg.png)] bg-top bg-no-repeat pt-[60px] after:absolute after:bottom-0 after:left-0 after:h-[20%] after:w-full after:bg-n8 lg:pt-[120px] lg:after:h-[34%]">
+        <div class="relative z-[1] mx-auto max-w-[918px] text-center">
+          <h5 class="h5 mb-5 text-n8">Latest Cybersecurity News & Updates</h5>
+          <h2 class="h2 mb-5 text-n8">Latest Enterprise Tests</h2>
+          <!-- <p class="mx-auto mb-10 max-w-2xl text-n8 lg:mb-[60px]">Integrate resources both locally and in the cloud, provide security for user traffic and endpoints, and build a network that is both scalable and unique.</p> -->
+        </div>
+        <div class="container relative z-[2] grid grid-cols-12 gap-6">
+          <div class="col-span-12 md:col-span-6">
+            <div class="group rounded-[10px] bg-n8 p-2.5 shadow-[0px_12px_40px_0px_rgba(0,0,0,0.10)]">
+              <div class="relative rounded-[10px]">
+                <img src="assets/images/blog-1.jpg" class="w-full blog_img_style rounded-[10px]" width="616" height="300"
+                  alt="img" />
+                <span class="absolute -bottom-7 right-10 inline-block rounded-[30px] bg-primary px-5 py-4 text-n8">
+                  Cyber Security </span>
+              </div>
+              <div class="p-5">
+                <h5 class="h5 mb-5 mt-3 text-title">Business Security Test 2024 (August - November)</h5>
+                <p class="mb-7 text-para2">The second half-year report of our Enterprise main-test series containing a
+                  Real-World Protection, Malware Protection and Performance Test has been released. Also product
+                  descriptions are included. Read the report for details.</p>
+                <!-- <a href="#" class="flex items-center gap-2 text-base font-medium text-primary duration-300 group-hover:gap-3"> View case study <i class="ti ti-arrow-narrow-right"></i> </a> -->
+              </div>
+            </div>
+          </div>
+          <div class="col-span-12 md:col-span-6">
+            <div style="height: 564px;" class="group rounded-[10px] bg-n8 p-2.5 shadow-[0px_12px_40px_0px_rgba(0,0,0,0.10)]">
+              <div class="relative rounded-[10px]">
+                <img src="assets/images/blog-2.jpg" class="w-full blog_img_style rounded-[10px]" width="616" height="300"
+                  alt="img" />
+                <span class="absolute -bottom-7 right-10 inline-block rounded-[30px] bg-primary px-5 py-4 text-n8">
+                  Cyber Security </span>
+              </div>
+              <div class="p-5">
+                <h5 class="h5 mb-5 mt-3 text-title">
+                  Advanced Threat Protection Test 2024 - Enterprise</h5>
+                <p class="mb-7 text-para2">Check out Our' newly released Advanced Threat Protection Test 2024 for
+                  Enterprise security products</p>
+                <!-- <a href="#" class="flex items-center gap-2 text-base font-medium text-primary duration-300 group-hover:gap-3"> View case study <i class="ti ti-arrow-narrow-right"></i> </a> -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="relative pb-[60px] lg:pb-[120px] xl:pt-[60px]">
+      <img width="161" height="188" class="absolute left-14 top-0 z-[2] hidden xl:block" src="assets/images/cube-1.png"
+        alt="img" />
+      <img width="259" height="304" class="absolute bottom-[23%] right-6 z-[2] hidden xl:block"
+        src="assets/images/cube-2.png" alt="img" />
+      <div
+        class="relative bg-primary bg-[url(../images/work-process-bg.png)] bg-top bg-no-repeat pt-[60px] after:absolute after:bottom-0 after:left-0 after:h-[20%] after:w-full after:bg-n8 lg:pt-[120px] lg:after:h-[34%]">
+        <div class="relative z-[1] mx-auto max-w-[918px] text-center">
+          <h5 class="h5 mb-5 text-n8">Latest Cybersecurity News & Updates</h5>
+          <h2 class="h2 mb-5 text-n8">Latest Consumer Tests</h2>
+          <!-- <p class="mx-auto mb-10 max-w-2xl text-n8 lg:mb-[60px]">Integrate resources both locally and in the cloud, provide security for user traffic and endpoints, and build a network that is both scalable and unique.</p> -->
+        </div>
+        <div class="container relative z-[2] grid grid-cols-12 gap-6">
+          <div class="col-span-12 md:col-span-6">
+            <div class="group rounded-[10px] bg-n8 p-2.5 shadow-[0px_12px_40px_0px_rgba(0,0,0,0.10)]">
+              <div class="relative rounded-[10px]">
+                <img src="assets/images/blog-3.jpg" class="w-full blog_img_style rounded-[10px]" width="616" height="300"
+                  alt="img" />
+                <span class="absolute -bottom-7 right-10 inline-block rounded-[30px] bg-primary px-5 py-4 text-n8">
+                  Cyber Security </span>
+              </div>
+              <div class="p-5">
+                <h5 class="h5 mb-5 mt-3 text-title">Fake-Shops Detection Test November 2024</h5>
+                <p class="mb-7 text-para2">We conducted a test evaluating the ability of different solutions to detect
+                  and alert users about fraudulent e-commerce websites.</p>
+                <!-- <a href="#" class="flex items-center gap-2 text-base font-medium text-primary duration-300 group-hover:gap-3"> View case study <i class="ti ti-arrow-narrow-right"></i> </a> -->
+              </div>
+            </div>
+          </div>
+          <div class="col-span-12 md:col-span-6">
+            <div class="group rounded-[10px] bg-n8 p-2.5 shadow-[0px_12px_40px_0px_rgba(0,0,0,0.10)]">
+              <div class="relative rounded-[10px]">
+                <img src="assets/images/blog-4.jpg" class="w-full blog_img_style rounded-[10px]" width="616" height="300"
+                  alt="img" />
+                <span class="absolute -bottom-7 right-10 inline-block rounded-[30px] bg-primary px-5 py-4 text-n8">
+                  Cyber Security </span>
+              </div>
+              <div class="p-5">
+                <h5 class="h5 mb-5 mt-3 text-title">
+                  Real-World Protection Test July-October 2024</h5>
+                <p class="mb-7 text-para2">The results for the second half of the ongoing Real-World Protection Test
+                  (July–October 2024) are now available.</p>
+                <!-- <a href="#" class="flex items-center gap-2 text-base font-medium text-primary duration-300 group-hover:gap-3"> View case study <i class="ti ti-arrow-narrow-right"></i> </a> -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <!-- ============ footer Start ============ -->
+
+    <!-- modal body -->
+    <dialog id="myModal">
+      <div id="modal-content">
+        <!-- <p id="first-line">Thank you for reaching us!</p> -->
+        <p id="second-line">For urgent support, call us at:</p>
+        <a href="tel: 9876543210">
+          <p id="number">
+            9876543210
+          </p>
+        </a>
+        
+        <button id="modal-button" onclick="document.getElementById('myModal').close()">Close</button>
+      </div>
+    </dialog>
+
+    <!-- floating button -->
+    <div class="flotting_btn">
+      <a href="tel:987643210">
+        <img src="assets/images/calling_13984023.png" alt="calling">
+      </a>
+    </div>
+
+    <footer class="footer-3 relative bg-light2 text-para2">
+      <div class="pb-[60px] lg:pb-[120px]" style="padding-top: 50px; padding-bottom: 40px;">
+        <div class="container">
+          <div class="grid grid-cols-12 gap-6">
+            <div class="col-span-12 xl:col-span-3">
+              <a href="index.html" class="mb-6 block">
+                <img width="172" height="47" src="assets/images/anti-virus-logo.png" alt="image" class="logo__img" />
+              </a>
+              <p class="t-short-para mb-6">Empowering Business Success with Security Excellence</p>
+            </div>
+            <div class="col-span-6 sm:col-span-3 quick_links">
+              <h5 class="h5 mb-5 text-title md:mb-7">Quick Link</h5>
+              <ul class="flex flex-col gap-2">
+                <li>
+                  <a href="index.html" class="duration-300 hover:text-primary"> Home </a>
+                </li>
+                <li>
+                  <a  href="#services" class="duration-300 hover:text-primary"> Services </a>
+                </li>
+                
+                <li>
+                  <a style="cursor: pointer;" onclick="document.getElementById('myModal').showModal()" class="duration-300 hover:text-primary"> Contact </a>
+                </li>
+              </ul>
+            </div>
+            <div class="col-span-6 sm:col-span-3 ">
+              <h5 class="h5 mb-5 text-title md:mb-7">IT Security Services</h5>
+              <ul class="flex flex-col gap-2">
+                <li>
+                  <a href="for-cybersecurity.html" class="duration-300 hover:text-primary"> For Cybersecurity Vendors </a>
+                </li>
+                <li>
+                  <a href="for-CISOs.html" class="duration-300 hover:text-primary"> For CISOs and Enterprises  </a>
+                </li>
+                <li>
+                  <a href="for-analysts.html" class="duration-300 hover:text-primary"> For Analysts and Journalists </a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="col-span-6 sm:col-span-3 ">
+              <h5 class="h5 mb-5 text-title md:mb-7">Privacy and Legal</h5>
+              <ul class="flex flex-col gap-2">
+                <li>
+                  <a href="privacy-policy.html" class="duration-300 hover:text-primary"> Privacy Policy </a>
+                </li>
+                <li>
+                  <a href="terms-and-conditions.html" class="duration-300 hover:text-primary"> Terms and Conditions </a>
+                </li>
+                
+              </ul>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+
+      <div class="container border-t border-gray py-5 lg:py-8">
+        <div class="grid grid-cols-12 gap-6 md:items-center">
+          <div class="col-span-12 md:col-span-6">
+            <p class="text-center md:text-start">
+              Copyright 2025 |
+              <a href="index-2.html" class="duration-300 hover:text-secondary">IT Security Support</a> | All Rights Reserved
+            </p>
+          </div>
+          <div class="col-span-12 md:col-span-6">
+            <div class="flex items-center justify-center gap-2 md:justify-end">
+              <a
+                class="flex items-center justify-center rounded-full border border-[#D0C9F6] bg-transparent p-1.5 text-primary duration-300 hover:border-n8 hover:bg-n8 hover:shadow-[0px_10px_15px_0px_rgba(86,58,255,0.20)] md:p-3">
+                <i class="ti ti-brand-facebook-filled"></i>
+              </a>
+              <a 
+                class="flex items-center justify-center rounded-full border border-[#D0C9F6] bg-transparent p-1.5 text-primary duration-300 hover:border-n8 hover:bg-n8 hover:shadow-[0px_10px_15px_0px_rgba(86,58,255,0.20)] md:p-3">
+                <i class="ti ti-brand-twitter-filled"></i>
+              </a>
+              <a 
+                class="flex items-center justify-center rounded-full border border-[#D0C9F6] bg-transparent p-1.5 text-primary duration-300 hover:border-n8 hover:bg-n8 hover:shadow-[0px_10px_15px_0px_rgba(86,58,255,0.20)] md:p-3">
+                <i class="ti ti-brand-instagram"></i>
+              </a>
+              <a 
+                class="flex items-center justify-center rounded-full border border-[#D0C9F6] bg-transparent p-1.5 text-primary duration-300 hover:border-n8 hover:bg-n8 hover:shadow-[0px_10px_15px_0px_rgba(86,58,255,0.20)] md:p-3">
+                <i class="ti ti-brand-linkedin"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- ============ swiper plugin js ============ -->
+    <script src="cdn.jsdelivr.net/npm/swiper%4011/swiper-bundle.min.js"></script>
+    <!-- ============ glightbox js ============ -->
+    <script src="assets/js/glightbox.min.js"></script>
+    <!-- ============ aos js ============ -->
+    <script src="assets/js/aos.js"></script>
+    <!-- ============ emailjs plugin js ============ -->
+    <script type="text/javascript" src="cdn.jsdelivr.net/npm/emailjs-com%402/dist/email.min.js"></script>
+    <!-- ============ odometer plugin js ============ -->
+    <script src="github.hubspot.com/odometer/odometer.js"></script>
+    <!-- ============= main js ============ -->
+    <script src="assets/js/main.js"></script>
+    <!-- ============= index js ============ -->
+    <script src="index.js"></script>
+
+  </main>
+</body>
+
+
+</html>

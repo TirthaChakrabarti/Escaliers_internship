@@ -1,0 +1,431 @@
+<!doctype html>
+<html dir="ltr" lang="en">
+
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon" />
+  <!-- ============ swiper js css  ============ -->
+  <link rel="stylesheet" href="cdn.jsdelivr.net/npm/swiper%4011/swiper-bundle.min.css" />
+  <!-- ============ odometer css  ============ -->
+  <link href="github.hubspot.com/odometer/themes/odometer-theme-default.css" rel="stylesheet" />
+  <!-- ============ aos css  ============ -->
+  <link href="assets/css/aos.css" rel="stylesheet" />
+  <!-- ============ glightbox css ============ -->
+  <link rel="stylesheet" href="cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
+  <!-- Tabler Icons stylesheets -->
+  <link rel="stylesheet" href="cdn.jsdelivr.net/npm/%40tabler/icons-webfont%40latest/dist/tabler-icons.min.css" />
+  <link rel="stylesheet" href="assets/css/style.html" />
+  <!-- ============ site favicon  ============ -->
+  <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon" />
+  <title>Home 4- IT Solutions and Services HTML Template</title>
+  <script defer src="assets/js/app.js"></script>
+  <link href="assets/css/index.css" rel="stylesheet">
+</head>
+
+<body class="text-base lg:text-lg">
+  <main class="relative">
+    <!-- scroll top -->
+    <button
+      class="scroll-top group fixed bottom-8 right-5 z-50 flex size-12 translate-y-20 items-center justify-center rounded-full border-2 border-danger bg-white text-n8 opacity-0 duration-300 hover:border-primary hover:text-title sm:bottom-10 sm:right-10">
+      <div class="flex size-9 items-center justify-center rounded-full bg-danger duration-300 group-hover:bg-primary">
+        <i class="ti ti-chevrons-up text-2xl text-white duration-300"></i>
+      </div>
+    </button>
+    <!-- Mobile Menu -->
+    <div class="relative w-full xl:hidden">
+      <div id="overlay"
+        class="invisible fixed right-0 top-0 z-[32] h-screen w-0 bg-black bg-opacity-60 duration-700 ease-in-out"></div>
+      <nav class="fixed top-0 z-[31] w-full bg-white shadow-lg xl:hidden">
+        <div class="container relative flex items-center justify-between px-3 py-3 md:py-5">
+          <a href="index.html">
+            <img src="assets/images/anti-virus-logo.png" width="172" height="47" alt="logo" />
+          </a>
+          <button id="menuToggle" class="cursor-pointer bg-white p-2 xl:hidden">
+            <i class="ti ti-menu-2 text-[24px] text-primary" style="font-size: 30px"></i>
+          </button>
+        </div>
+      </nav>
+      <!-- Mobile Menu -->
+      <div id="mobileMenu"
+        class="fixed left-0 top-0 z-[33] h-screen w-full max-w-[350px] -translate-x-[120%] overflow-y-auto bg-light pb-4 shadow-2xl duration-700 ease-in-out xl:hidden">
+        <div class="flex items-center justify-between px-6 py-4">
+          <img src="assets/images/anti-virus-logo.png" width="172" height="47" alt="logo" />
+          <button id="closeMenu" aria-label="mobile menu close" class="cursor-pointer text-n2">
+            <i class="ti ti-x text-[24px]"></i>
+          </button>
+        </div>
+        <ul class="px-3">
+          <!-- Home -->
+          <li class="w-full">
+            <button class="flex w-full items-center justify-between px-3 py-2 text-n2">
+              <a href="index.html">
+                <span class="text-lg">Home</span>
+              </a>
+            </button>
+
+          </li>
+          <!-- Blogs -->
+          <li class="w-full">
+            <button class="flex w-full items-center justify-between px-3 py-2 text-n2">
+              <a href="index.html">
+                <span class="text-lg">About Us</span>
+              </a>
+            </button>
+
+          </li>
+          <!-- Services -->
+          <li class="w-full">
+            <button class="flex w-full items-center justify-between px-3 py-2 text-n2">
+              <a href="#">
+                <span class="text-lg">Services</span>
+              </a>
+              <i class="ti ti-plus text-[24px]"></i>
+            </button>
+            <ul class="submenu" style="display: none">
+              <li><a href="for-cybersecurity.html" class="inline-flex w-full px-5 py-2 text-n2">- For Cybersecurity Vendors</a></li>
+              <li><a href="for-CISOs.html" class="inline-flex w-full px-5 py-2 text-n2">- For CISOs and Enterprises</a></li>
+              <li><a href="for-analysts.html" class="inline-flex w-full px-5 py-2 text-n2">- For Analysts and Journalists</a></li>
+            </ul>
+
+          </li>
+
+
+          <!-- Contact Us -->
+          <li class="w-full">
+            <a class="inline-flex px-3 py-2 text-n2" onclick="document.getElementById('myModal').showModal()">Contact Us</a>
+          </li>
+          <!-- Pages -->
+
+          <li>
+            <button class="flex w-full items-center justify-between px-3 py-2 text-n2">
+              <a href="privacy-policy.html">
+                <span class="text-lg">Privacy Policy</span>
+              </a>
+            </button>
+          </li>
+          <button class="flex w-full items-center justify-between px-3 py-2 text-n2">
+            <a href="terms-and-conditions.html">
+              <span class="text-lg">Terms and Conditions</span>
+            </a>
+          </button>
+
+        </ul>
+        <div class="hidden items-center gap-5 xl:flex">
+          <button class="nav-bar-search-btn flex items-center justify-center rounded-full bg-n8 p-2 text-primary">
+            <i class="ti ti-search"></i>
+          </button>
+          <a href="#" class="btn-primary border-none bg-secondary"> Call Us at: 1234567890 </a>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- ==================== Banner Start ==================== -->
+    <section class="relative bg-gradient-to-b from-[#291C77] to-[#4636A5] pt-32 md:pt-40 xl:pt-0">
+      <img class="absolute right-[3%] top-[16%] hidden xl:block" src="assets/images/shield.png" width="338" height="338"
+        alt="element" />
+      <img class="animate-rotate absolute bottom-[25%] left-[3%] hidden xl:block" src="assets/images/globe.png"
+        width="300" height="300" alt="element" />
+
+      <div class="bg-[url(images/hero-4-bg.png)] bg-top bg-no-repeat xl:pt-[72px]">
+        <!-- desktop nav -->
+        <div class="desktop-nav-4-container fixed top-0 z-20 hidden w-full bg-n8 text-n8 xl:block xl:bg-transparent">
+          <div class="desktop-nav-4-inner relative z-30 hidden w-full py-2.5 xl:block">
+            <div class="container flex items-center justify-between">
+              <a href="index.html">
+                <img width="171" height="46" src="assets/images/anti-virus-logo.png" alt="logo" />
+              </a>
+              <div class="hidden items-center gap-3 xl:flex">
+                <ul class="relative flex gap-2">
+                  <li class="group relative cursor-pointer px-5 py-2.5">
+                    <span class="flex items-center duration-300 hover:text-secondary">
+                      <a href="index.html">
+                        <span class="font-medium">Home</span>
+                      </a>
+
+                    </span>
+
+
+                  </li>
+                  <li class="group relative cursor-pointer px-5 py-2.5">
+                    <span class="flex items-center duration-300 hover:text-secondary">
+                      <a href="blog.html">
+                        <span class="font-medium">Blogs</span>
+                      </a>
+
+                    </span>
+
+
+                  </li>
+                  <li class="group relative cursor-pointer px-5 py-2.5">
+                    <span class="flex items-center duration-300 hover:text-secondary">
+                      <span class="font-medium">Services</span>
+                      <i class="ti ti-chevron-down"></i>
+                    </span>
+                    <ul style="min-width: 250px;"
+                      class="group-hover:event-unset pointer-events-none invisible absolute left-0 top-[120%] grid w-full min-w-[440px] columns-1 grid-cols-1 bg-n7 p-3 text-n2 opacity-0 duration-300 group-hover:visible group-hover:top-full group-hover:opacity-100 lg:px-5">
+                      <li class="min-w-[180px]ksdksdk">
+                        <a class="relative inline-block py-2 duration-200 after:absolute after:bottom-0 after:right-0 after:h-0.5 after:w-0 after:bg-secondary after:transition-all after:duration-300 hover:after:left-0 hover:after:right-auto hover:after:w-full"
+                          href="for-cybersecurity.html">For Cybersecurity Vendors</a>
+                      </li>
+                      <li class="min-w-[180px]ksdksdk">
+                        <a class="relative inline-block py-2 duration-200 after:absolute after:bottom-0 after:right-0 after:h-0.5 after:w-0 after:bg-secondary after:transition-all after:duration-300 hover:after:left-0 hover:after:right-auto hover:after:w-full"
+                          href="for-CISOs.html">For CISOs and Enterprises</a>
+                      </li>
+                      <li class="min-w-[180px]ksdksdk">
+                        <a class="relative inline-block py-2 duration-200 after:absolute after:bottom-0 after:right-0 after:h-0.5 after:w-0 after:bg-secondary after:transition-all after:duration-300 hover:after:left-0 hover:after:right-auto hover:after:w-full"
+                          href="for-analysts.html">For Analysts and Journalists</a>
+                      </li>
+
+                    </ul>
+
+                  </li>
+                  <li class="group relative cursor-pointer px-5 py-2.5">
+                    <a class="font-medium duration-300 hover:text-secondary" onclick="document.getElementById('myModal').showModal()">Contact Us</a>
+                  </li>
+
+                </ul>
+                <!-- <div class="hidden items-center gap-5 xl:flex">
+                  <button
+                    class="nav-bar-search-btn flex items-center justify-center rounded-full bg-n8 p-2 text-primary">
+                    <i class="ti ti-search"></i>
+                  </button>
+                  <a href="#" class="btn-primary border-none bg-secondary"> Free Quote </a>
+                </div> -->
+                <div class="hidden items-center gap-5 xl:flex">
+
+                  <a href="#" class="btn-primary border-none bg-secondary"> Call Us at: 1234567890 </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="searchBar"
+            class="absolute left-0 right-0 top-0 z-30 w-full -translate-y-[200%] bg-n8 py-5 text-title shadow-lg duration-500 xl:py-9">
+            <div class="container">
+              <form
+                class="mx-auto flex max-w-[80%] flex-wrap items-center justify-between gap-4 md:flex-nowrap md:gap-6 xxl:max-w-full">
+                <div class="flex grow items-center gap-2 rounded-[30px] border border-n6 bg-light px-7 py-3">
+                  <i class="ti ti-search text-n4"></i>
+                  <input type="text" class="w-full bg-transparent focus:outline-none"
+                    placeholder="Write something to search...." />
+                </div>
+                <button class="btn-primary shrink-0">Search</button>
+              </form>
+              <span class="nav-bar-search-btn-close absolute right-8 top-[40%] h-full cursor-pointer text-title">
+                <i class="ti ti-x"></i>
+              </span>
+            </div>
+          </div>
+        </div>
+
+        
+      </div>
+    </section>
+ 
+ 
+ 
+ 
+ <!-- ========== breadcrumb ============ -->
+ <section class="bg-[url(../images/banner-bg.png)] bg-cover bg-no-repeat md:mt-[87px] xl:mt-0">
+    <div class="bg-primary bg-opacity-40 py-[52px]">
+      <div class="container text-n8">
+        <h3 class="h3 mb-2.5">For Cybersecurity Vendors</h3>
+        <ul class="flex flex-wrap items-center gap-2">
+          <li><a href="index.html">Home</a></li>
+          <li class="flex items-center">
+            <i class="ti ti-chevron-right text-[24px]"></i>
+          </li>
+          <li><a href="for-cybersecurity.html">For Cybersecurity Vendors</a></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== We Provide the following services ============ -->
+  <section class="bg-n8 py-14 lg:py-28">
+    <div class="container">
+      <div class="mx-auto max-w-[838px] text-center">
+        
+        <h2 class="h2 mb-4 text-title">Enhance Product Efficiency and Strengthen Market Reputation.</h2>
+        <p class="mx-auto mb-10 max-w-lg text-lg lg:mb-14">By taking part in independent security testing, vendors gain valuable insights to improve their solutions and achieve globally recognized validation to enhance their credibility. Explore how our comprehensive testing can elevate your cybersecurity product.</p>
+      </div>
+      <div class="grid grid-cols-12 gap-4 xl:gap-6">
+        <div class="col-span-12 flex items-start gap-7 rounded-[10px] border border-gray bg-[#F7F7FC] p-3 duration-300 hover:border-transparent hover:bg-n8 hover:shadow-[0px_0px_32px_0px_rgba(0,0,0,0.10)] sm:p-4 md:col-span-6 md:p-6 xl:col-span-4 xl:px-[30px] xl:py-10">
+          <div class="shrink-0 rounded-full bg-primary2 p-3 text-white">
+            <img alt="icon" loading="lazy" width="34" height="34" decoding="async" data-nimg="1" src="assets/images/icon-1.png" style="color: transparent" />
+          </div>
+          <div>
+            <h5 class="h5 mb-2.5 text-title">Product Improvement</h5>
+            <p class="mb-5 text-n2 md:text-lg">IT security vendors gain detailed insights into their tested products through our services. Based on requirements, this feedback may include a test report, test results, and identified gaps or bugs.</p>
+            <a class="flex items-center gap-3 font-medium text-primary" href="#"
+              >Discover Now
+              <i class="ti ti-arrow-right"></i>
+            </a>
+          </div>
+        </div>
+        <div class="col-span-12 flex items-start gap-7 rounded-[10px] border border-gray bg-[#F7F7FC] p-3 duration-300 hover:border-transparent hover:bg-n8 hover:shadow-[0px_0px_32px_0px_rgba(0,0,0,0.10)] sm:p-4 md:col-span-6 md:p-6 xl:col-span-4 xl:px-[30px] xl:py-10">
+          <div class="shrink-0 rounded-full bg-danger p-3 text-white">
+            <img alt="icon" loading="lazy" width="34" height="34" decoding="async" data-nimg="1" src="assets/images/icon-2.png" style="color: transparent" />
+          </div>
+          <div>
+            <h5 class="h5 mb-2.5 text-title">Marketing Advantage</h5>
+            <p class="mb-5 text-n2 md:text-lg">Tested products receive certification and awards. These certifications are widely regarded as the gold standard in cybersecurity evaluation. Vendors with an official certification gain global recognition and attract significantly more customers.
+            </p>
+            <a class="flex items-center gap-3 font-medium text-primary" href="#"
+              >Discover Now
+              <i class="ti ti-arrow-right"></i>
+            </a>
+          </div>
+        </div>
+        <div class="col-span-12 flex items-start gap-7 rounded-[10px] border border-gray bg-[#F7F7FC] p-3 duration-300 hover:border-transparent hover:bg-n8 hover:shadow-[0px_0px_32px_0px_rgba(0,0,0,0.10)] sm:p-4 md:col-span-6 md:p-6 xl:col-span-4 xl:px-[30px] xl:py-10">
+          <div class="shrink-0 rounded-full bg-secondary p-3 text-white">
+            <img alt="icon" loading="lazy" width="34" height="34" decoding="async" data-nimg="1" src="assets/images/icon-3.png" style="color: transparent" />
+          </div>
+          <div>
+            <h5 class="h5 mb-2.5 text-title">Industry Recognition</h5>
+            <p class="mb-5 text-n2 md:text-lg">Our test results are cited by leading analysts and media outlets, including Gartner, Frost & Sullivan, Forrester, Omdia, KuppingerCole, and IDC.</p>
+            <a class="flex items-center gap-3 font-medium text-primary" href="#"
+              >Discover Now
+              <i class="ti ti-arrow-right"></i>
+            </a>
+          </div>
+        </div>
+        
+    </div>
+  </section>
+
+  <!-- modal body -->
+  <dialog id="myModal">
+    <div id="modal-content">
+      <!-- <p id="first-line">Thank you for reaching us!</p> -->
+      <p id="second-line">For urgent support, call us at:</p>
+      <a href="tel: 9876543210">
+        <p id="number">
+          9876543210
+        </p>
+      </a>
+      
+      <button id="modal-button" onclick="document.getElementById('myModal').close()">Close</button>
+    </div>
+  </dialog>
+
+  <!-- floating button -->
+  <div class="flotting_btn">
+    <a href="tel:987643210">
+      <img src="assets/images/calling_13984023.png" alt="calling">
+    </a>
+  </div>
+
+   <!-- ============ footer Start ============ -->
+   <footer class="footer-3 relative bg-light2 text-para2">
+    <div class="pb-[60px] lg:pb-[120px]" style="padding-top: 50px; padding-bottom: 40px;">
+      <div class="container">
+        <div class="grid grid-cols-12 gap-6">
+          <div class="col-span-12 xl:col-span-3">
+            <a href="index.html" class="mb-6 block">
+              <img width="172" height="47" src="assets/images/anti-virus-logo.png" alt="image" class="logo__img" />
+            </a>
+            <p class="t-short-para mb-6">Empowering Business Success with Security Excellence</p>
+          </div>
+          <div class="col-span-6 sm:col-span-3 quick_links">
+            <h5 class="h5 mb-5 text-title md:mb-7">Quick Link</h5>
+            <ul class="flex flex-col gap-2">
+              <li>
+                <a href="index.html" class="duration-300 hover:text-primary"> Home </a>
+              </li>
+              <li>
+                <a  href="index.html#services" class="duration-300 hover:text-primary"> Services </a>
+              </li>
+              
+              <li>
+                <a style="cursor: pointer;" onclick="document.getElementById('myModal').showModal()" class="duration-300 hover:text-primary"> Contact </a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-span-6 sm:col-span-3 ">
+            <h5 class="h5 mb-5 text-title md:mb-7">IT Security Services</h5>
+            <ul class="flex flex-col gap-2">
+              <li>
+                <a href="for-cybersecurity.html" class="duration-300 hover:text-primary"> For Cybersecurity Vendors </a>
+              </li>
+              <li>
+                <a href="for-CISOs.html" class="duration-300 hover:text-primary"> For CISOs and Enterprises  </a>
+              </li>
+              <li>
+                <a href="for-analysts.html" class="duration-300 hover:text-primary"> For Analysts and Journalists </a>
+              </li>
+              
+            </ul>
+          </div>
+
+          <div class="col-span-6 sm:col-span-3 ">
+            <h5 class="h5 mb-5 text-title md:mb-7">Privacy and Legal</h5>
+            <ul class="flex flex-col gap-2">
+              <li>
+                <a href="privacy-policy.html" class="duration-300 hover:text-primary"> Privacy Policy </a>
+              </li>
+              <li>
+                <a href="terms-and-conditions.html" class="duration-300 hover:text-primary"> Terms and Conditions </a>
+              </li>
+              
+            </ul>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+
+    <div class="container border-t border-gray py-5 lg:py-8">
+      <div class="grid grid-cols-12 gap-6 md:items-center">
+        <div class="col-span-12 md:col-span-6">
+          <p class="text-center md:text-start">
+            Copyright 2025 |
+            <a href="index-2.html" class="duration-300 hover:text-secondary">IT Security Support</a> | All Rights Reserved
+          </p>
+        </div>
+        <div class="col-span-12 md:col-span-6">
+          <div class="flex items-center justify-center gap-2 md:justify-end">
+            <a
+              class="flex items-center justify-center rounded-full border border-[#D0C9F6] bg-transparent p-1.5 text-primary duration-300 hover:border-n8 hover:bg-n8 hover:shadow-[0px_10px_15px_0px_rgba(86,58,255,0.20)] md:p-3">
+              <i class="ti ti-brand-facebook-filled"></i>
+            </a>
+            <a 
+              class="flex items-center justify-center rounded-full border border-[#D0C9F6] bg-transparent p-1.5 text-primary duration-300 hover:border-n8 hover:bg-n8 hover:shadow-[0px_10px_15px_0px_rgba(86,58,255,0.20)] md:p-3">
+              <i class="ti ti-brand-twitter-filled"></i>
+            </a>
+            <a 
+              class="flex items-center justify-center rounded-full border border-[#D0C9F6] bg-transparent p-1.5 text-primary duration-300 hover:border-n8 hover:bg-n8 hover:shadow-[0px_10px_15px_0px_rgba(86,58,255,0.20)] md:p-3">
+              <i class="ti ti-brand-instagram"></i>
+            </a>
+            <a 
+              class="flex items-center justify-center rounded-full border border-[#D0C9F6] bg-transparent p-1.5 text-primary duration-300 hover:border-n8 hover:bg-n8 hover:shadow-[0px_10px_15px_0px_rgba(86,58,255,0.20)] md:p-3">
+              <i class="ti ti-brand-linkedin"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ============ swiper plugin js ============ -->
+  <script src="cdn.jsdelivr.net/npm/swiper%4011/swiper-bundle.min.js"></script>
+  <!-- ============ glightbox js ============ -->
+  <script src="assets/js/glightbox.min.js"></script>
+  <!-- ============ aos js ============ -->
+  <script src="assets/js/aos.js"></script>
+  <!-- ============ emailjs plugin js ============ -->
+  <script type="text/javascript" src="cdn.jsdelivr.net/npm/emailjs-com%402/dist/email.min.js"></script>
+  <!-- ============ odometer plugin js ============ -->
+  <script src="github.hubspot.com/odometer/odometer.js"></script>
+  <!-- ============= main js ============ -->
+  <script src="assets/js/main.js"></script>
+  <!-- ============= index js ============ -->
+  <script src="index.js"></script>
+</main>
+</body>
+
+<!-- Mirrored from softivuslab.com/html/itsolutio/home-4.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 10 Mar 2025 08:17:24 GMT -->
+
+</html>
